@@ -4,5 +4,9 @@ html
     != getBlock('meta').toHTML()
     != getBlock('styles').add(['/styles/style.css']).toHTML()
   body
+    ul
+        each page in getCollection('mainnav').toJSON()
+            li(class=[page.id == document.id ? 'active' : 'inactive'])
+                a(href=page.url)= page.title ? page.title : page.name
     !=content
     != getBlock('scripts').toHTML()
