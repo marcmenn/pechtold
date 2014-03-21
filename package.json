@@ -1,0 +1,7 @@
+{
+  "name": "www.pechtold.de",
+  "version": "0.0.1",
+  "devDependencies": {
+    "docpad": "^6.64.0"
+  }
+}
