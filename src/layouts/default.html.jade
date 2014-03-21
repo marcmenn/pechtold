@@ -1,6 +1,6 @@
 html
   head
-    title=(document.title  ? document.title : title) + " | RPLAN - Developer Documentation"
+    title= getPreparedTitle()
     != getBlock('meta').toHTML()
     != getBlock('styles').add(['/styles/style.css']).toHTML()
   body
