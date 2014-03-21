@@ -5,7 +5,7 @@
 docpadConfig = {
     collections:
         pages: ->
-            @getCollection("html").findAllLive({isPage:true}).on "add", (model) ->
+            @getCollection("html").findAllLive().on "add", (model) ->
                 model.setMetaDefaults({layout:"default", isPage: true})
 
     templateData:
