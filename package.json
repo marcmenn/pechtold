@@ -9,7 +9,8 @@
     "docpad": "~6.64.0",
     "docpad-plugin-marked": "~2.2.0",
     "docpad-plugin-stylus": "~2.6.0",
-    "docpad-plugin-coffeescript": "~2.3.0"
+    "docpad-plugin-coffeescript": "~2.3.0",
+    "docpad-plugin-jade": "~2.6.2"
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
