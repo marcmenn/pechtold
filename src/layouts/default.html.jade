@@ -1,7 +1,8 @@
 html
   head
     title=(document.title  ? document.title : title) + " | RPLAN - Developer Documentation"
-    != getBlock('styles').toHTML()
+    != getBlock('meta').toHTML()
+    != getBlock('styles').add(['/styles/style.css']).toHTML()
   body
     !=content
     != getBlock('scripts').toHTML()
