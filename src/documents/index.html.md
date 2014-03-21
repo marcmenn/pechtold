@@ -1,3 +1,7 @@
+---
+name: Home
+weight: 0
+---
 # Planen und Bauen seit 1975
 # Inhaber:
 Manfred Pechtold Dipl.-Ing. Architekt BDA  
