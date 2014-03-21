@@ -20,6 +20,7 @@ ul
     each page in getCollection("pages").findAllLive({relativeOutDirPath: 'projects'}).toJSON()
         li(class=[page.id == document.id ? 'active' : 'inactive'])
             a(href=page.url)= page.title ? page.title : page.name
+            span= page.category
 </t>
 """
 }
