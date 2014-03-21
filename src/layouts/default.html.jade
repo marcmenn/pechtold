@@ -1,0 +1,7 @@
+html
+  head
+    title=(document.title  ? document.title : title) + " | RPLAN - Developer Documentation"
+    != getBlock('styles').toHTML()
+  body
+    !=content
+    != getBlock('scripts').toHTML()
