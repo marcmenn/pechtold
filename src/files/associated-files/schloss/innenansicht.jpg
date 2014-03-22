@@ -1,0 +1,3 @@
+<br />
+<b>Warning</b>:  fopen(http://www.bda-bund.de/uploads/tx_bdavk/user_03209/innenansicht600x800(1).jpg) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in <b>/kunden/buerowilhelm.de/bda-bund/2014/vcards/_libs/libRender.php</b> on line <b>174</b><br />
