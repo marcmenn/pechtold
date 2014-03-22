@@ -2,6 +2,7 @@
 title: Fachmarktzentrum mit Hotel Landsberger Allee
 category: Industrie und Gewerbe
 weight: 4
+associatedFilesPath: landsberger
 ---
 
 # 2002/2006, Fachmarktzentrum / Hotel Landsberger Allee

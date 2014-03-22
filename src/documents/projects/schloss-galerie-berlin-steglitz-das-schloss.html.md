@@ -2,6 +2,7 @@
 title: Schloss-Galerie Berlin-Steglitz (Das Schloss)
 category: Industrie und Gewerbe
 weight: 1
+associatedFilesPath: schloss
 ---
 # 2000-2006, "Das Schloss"
 

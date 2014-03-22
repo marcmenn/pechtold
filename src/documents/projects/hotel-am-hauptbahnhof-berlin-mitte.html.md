@@ -2,6 +2,7 @@
 title: Hotel am Hauptbahnhof, Berlin-Mitte
 category: Industrie und Gewerbe
 weight: 3
+associatedFilesPath: hotel-hbf
 ---
 # 2008-2009, Hotel am Hauptbahnhof, Berlin-Mitte
 
