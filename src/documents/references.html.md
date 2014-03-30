@@ -11,9 +11,7 @@ Auszug aus der Projektliste
 
 Karl-Marx-Strasse 231, Berlin-Neukölln
 
-Fachmarktzentrum (14.000 m² Verkaufsfläche,
-
-380 Stellplätze)
+Fachmarktzentrum (14.000 m² Verkaufsfläche, 380 Stellplätze)
 
 Projektentwicklung
 
@@ -29,9 +27,7 @@ Auftraggeber: Kap Hag Handelsimmobilien GmbH
 
 Sankt Annen Strasse
 
-Einkaufszentrum (14.500 m² Verkaufsfläche,
-
-380 Stellplätze)
+Einkaufszentrum (14.500 m² Verkaufsfläche, 380 Stellplätze)
 
 Fassadenwettbewerb
 
@@ -65,9 +61,7 @@ Auftraggeber: Kap Hag Handelsimmobilien GmbH
 
 Residenzstraße 85-88, Berlin-Mitte
 
-Verbrauchermarkt (5.000 m² Verkaufsfläche,
-
-238 Stellplätze)
+Verbrauchermarkt (5.000 m² Verkaufsfläche, 238 Stellplätze)
 
 Projektentwicklung
 
