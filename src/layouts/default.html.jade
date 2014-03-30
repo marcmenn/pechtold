@@ -4,6 +4,8 @@ html
     != getBlock('meta').toHTML()
     != getBlock('styles').add(['/styles/style.css']).toHTML()
   body
+    h1 Pechtold
+      div Gesellschaft von Architekten mbH
     ul
         each page in getCollection('mainnav').toJSON()
             li(class=[page.id == document.id ? 'active' : 'inactive'])
