@@ -5,7 +5,7 @@
 docpadConfig = {
     collections:
         pages: ->
-            @getCollection("html").findAllLive({},[{menuOrder:1},{name:1}]).on "add", (model) ->
+            @getCollection("html").findAllLive({},[{menuOrder:1},{menuTitle:1}]).on "add", (model) ->
                 model.setMetaDefaults({layout:"default", isPage: true, menuOrder: 0})
 
         mainnav: ->

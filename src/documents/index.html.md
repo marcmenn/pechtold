@@ -1,5 +1,5 @@
 ---
-name: Home
+menuTitle: Home
 menuOrder: 0
 ---
 # Planen und Bauen seit 1975

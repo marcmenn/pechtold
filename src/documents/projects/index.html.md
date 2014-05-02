@@ -1,5 +1,5 @@
 ---
-name: Projekte
+menuTitle: Projekte
 menuOrder: 4
 ---
 # Projekte

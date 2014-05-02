@@ -1,3 +1,11 @@
+mixin menu(menuItems)
+    ul.nav
+        each item in menuItems
+            li(class=item.state ? 'selected' : false)
+                a(href=item.url)= item.title
+                if item.children
+                    +menu(item.children)
+
 html
   head
     title= getPreparedTitle()
@@ -7,10 +15,8 @@ html
     div.navigation
         h1 Pechtold
           div Gesellschaft von Architekten mbH
-        ul
-            each page in getCollection('pages').toJSON()
-                li(class=[page.id == document.id ? 'active' : 'inactive'])
-                    a(href=page.url)= page.title ? page.title : page.name
+        nav
+            +menu(generateMenu(document.url, 'pages'))
         address
           != partial('address')
     

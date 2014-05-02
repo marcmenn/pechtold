@@ -1,6 +1,7 @@
 ---
 layout: null
 cacheable: true
+isPage: false
 ---
 PECHTOLD<br/>
 Gesellschaft von Architekten mbH<br/> 

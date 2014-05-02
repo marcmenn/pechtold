@@ -1,5 +1,5 @@
 ---
-name: Büro
+menuTitle: Büro
 menuOrder: 2
 ---
 

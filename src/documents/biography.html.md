@@ -1,5 +1,5 @@
 ---
-name: Biographie
+menuTitle: Biographie
 menuOrder: 1
 ---
 

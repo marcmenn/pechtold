@@ -1,5 +1,5 @@
 ---
-name: Kontakt
+menuTitle: Kontakt
 menuOrder: 6
 ---
 

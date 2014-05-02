@@ -1,5 +1,5 @@
 ---
-name: Referenzen
+menuTitle: Referenzen
 menuOrder: 5
 ---
 
