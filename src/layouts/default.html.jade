@@ -8,7 +8,7 @@ html
         h1 Pechtold
           div Gesellschaft von Architekten mbH
         ul
-            each page in getCollection('mainnav').toJSON()
+            each page in getCollection('pages').toJSON()
                 li(class=[page.id == document.id ? 'active' : 'inactive'])
                     a(href=page.url)= page.title ? page.title : page.name
         address
