@@ -2,6 +2,7 @@
 layout: null
 cacheable: true
 isPage: false
+menuHidden: true
 ---
 PECHTOLD<br/>
 Gesellschaft von Architekten mbH<br/> 
