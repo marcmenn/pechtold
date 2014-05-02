@@ -7,19 +7,57 @@ body
   margin: 0
   font-family: 'Open Sans', sans-serif;
   
-  .navigation
-    position: relative
-    float: left
-    height: 100%
+/* Linke Spalte */
+
+.navigation
+  position: relative
+  float: left
+  height: 100%
+  width: 21em
+  padding: 0.5em 1em
+  
+  /* Headline */
+  
+  h1
+    font-size: (46/12) em
+    text-transform: uppercase
+    text-align: center
     
-    h1
-      font-size: (46/12) em
+    /* Subline */
+
+    div
+      font-size: (12/46) em
       text-transform: uppercase
       
-      div
-        font-size: (12/46) em
-        text-transform: uppercase
+  /* Hauptnavigation */
+  
+  nav
+    ul
+      padding: 0
+      margin: 0
+      
+      li
+        display: block
+        list-style: none
+        padding: 0
+        margin: 0
         
-    address
-      position: absolute
-      bottom: 0
+        > a
+          text-decoration: none
+          color: gray
+        
+        &.hasChildren > a:after
+          content: '˅'
+          
+        &.current
+          background-color: lightgray
+          border-left: 0.5em solid blue
+          
+        li
+          padding-left: 1em
+      
+  /* Footer */
+  
+  address
+    position: absolute
+    bottom: 0

@@ -1,7 +1,7 @@
 mixin menu(menuItems)
     ul.nav
         each item in menuItems
-            li(class=item.state ? 'selected' : null)
+            li(class=[item.state == 'current' ? 'current' : null, item.children ? 'hasChildren' : null])
                 a(href=item.url)= item.title
                 if item.children
                     +menu(item.children)
