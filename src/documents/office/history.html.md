@@ -1,5 +1,5 @@
 ---
-menuTitle: Biographie
+menuTitle: Geschichte
 menuOrder: 1
 ---
 
