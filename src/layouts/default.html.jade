@@ -12,7 +12,7 @@ html
                 li(class=[page.id == document.id ? 'active' : 'inactive'])
                     a(href=page.url)= page.title ? page.title : page.name
         address
-          != partial('address.html.md')
+          != partial('address')
     
     div.content
       !=content

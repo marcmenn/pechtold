@@ -17,7 +17,7 @@ docpadConfig = {
         getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
         projects: """<t render="jade">
 ul
-    each page in getCollection("pages").findAllLive({relativeOutDirPath: 'projects'}).toJSON()
+    each page in getCollection("pages").findAll({relativeOutDirPath: 'projects'}).toJSON()
         li(class=[page.id == document.id ? 'active' : 'inactive'])
             a(href=page.url)= page.title ? page.title : page.name
             span= page.category
