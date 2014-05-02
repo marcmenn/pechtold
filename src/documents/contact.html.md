@@ -1,6 +1,6 @@
 ---
 name: Kontakt
-weight: 6
+menuOrder: 6
 ---
 
 # Dipl.-Ing. BDA Pechtold

@@ -5,8 +5,8 @@
 docpadConfig = {
     collections:
         pages: ->
-            @getCollection("html").findAllLive({},[{weight:1},{name:1}]).on "add", (model) ->
-                model.setMetaDefaults({layout:"default", isPage: true, weight: 0})
+            @getCollection("html").findAllLive({},[{menuOrder:1},{name:1}]).on "add", (model) ->
+                model.setMetaDefaults({layout:"default", isPage: true, menuOrder: 0})
 
         mainnav: ->
             @getCollection("pages").findAllLive({relativeOutDirPath: '.'})

@@ -1,6 +1,6 @@
 ---
 name: Home
-weight: 0
+menuOrder: 0
 ---
 # Planen und Bauen seit 1975
 # Inhaber:

@@ -1,6 +1,6 @@
 ---
 name: Referenzen
-weight: 5
+menuOrder: 5
 ---
 
 Auszug aus der Projektliste

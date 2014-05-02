@@ -1,7 +1,7 @@
 ---
 title: Gropius-Passagen Berlin-Neukölln
 category: Industrie und Gewerbe
-weight: 2
+menuOrder: 2
 associatedFilesPath: gropius
 ---
 # 1995-2007, Gropius-Passagen

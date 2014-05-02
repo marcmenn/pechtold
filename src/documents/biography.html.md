@@ -1,6 +1,6 @@
 ---
 name: Biographie
-weight: 1
+menuOrder: 1
 ---
 
 # Portrait Manfred Pechtold:

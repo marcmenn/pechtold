@@ -1,7 +1,7 @@
 ---
 title: Einkaufszentrum Sankt-Annen-Galerie Brandenburg a.d.H.
 category: Industrie und Gewerbe
-weight: 5
+menuOrder: 5
 associatedFilesPath: sankt-annen
 ---
 # 2007-2009, Sankt-Annen-Galerie Brandenburg a.d.H.

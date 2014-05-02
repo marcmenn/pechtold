@@ -1,6 +1,6 @@
 ---
 name: Projekte
-weight: 4
+menuOrder: 4
 ---
 # Projekte
 

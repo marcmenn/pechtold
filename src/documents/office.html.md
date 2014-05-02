@@ -1,6 +1,6 @@
 ---
 name: Büro
-weight: 2
+menuOrder: 2
 ---
 
 # Architekturbüro Manfred Pechtold
