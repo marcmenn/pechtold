@@ -4,7 +4,7 @@ mixin menu(menuItems)
             li(class=[item.state == 'current' ? 'current' : null, item.children ? 'hasChildren' : null])
                 div
                     a(href=item.url)= item.title
-                if item.children
+                if item.children && item.state != false
                     +menu(item.children)
 
 html
@@ -13,15 +13,15 @@ html
     != getBlock('meta').toHTML()
     != getBlock('styles').add(['/styles/style.css']).toHTML()
   body
-    div.navigation
-        h1 Pechtold
+    aside
+        header Pechtold
           div Gesellschaft von Architekten mbH
         nav
             +menu(generateMenu(document.url, 'pages'))
-        address
+        footer
           != partial('address')
 
-    div.content
+    article
       !=content
       
   != getBlock('scripts').toHTML()
