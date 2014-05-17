@@ -36,6 +36,12 @@ flex-flow(args)
   -ms-flex-flow: args
   flex-flow: args
 
+align-self(args)
+  -webkit-align-self: args
+  -ms-align-self: args
+  align-self: args
+
+
 highlight(level)
   color: $NAV1_CURRENT_COLOR
   background-color: $NAV1_CURRENT_BACKGROUND
@@ -57,6 +63,8 @@ aside
   flex(none)
   display-flex()
   flex-flow(column nowrap)
+  align-self(flex-start)
+  min-height: 100%
   width: 19.5em /* Depend on Logo */
   padding: 0.5em 1em
 
