@@ -9,6 +9,7 @@ mixin menu(menuItems)
 
 html
   head
+    meta(charset="utf-8")
     title= getPreparedTitle()
     != getBlock('meta').toHTML()
     != getBlock('styles').add(['/styles/style.css']).toHTML()
