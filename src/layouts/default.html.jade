@@ -2,7 +2,8 @@ mixin menu(menuItems)
     ul.nav
         each item in menuItems
             li(class=[item.state == 'current' ? 'current' : null, item.children ? 'hasChildren' : null])
-                a(href=item.url)= item.title
+                div
+                    a(href=item.url)= item.title
                 if item.children
                     +menu(item.children)
 
@@ -19,8 +20,8 @@ html
             +menu(generateMenu(document.url, 'pages'))
         address
           != partial('address')
-    
+
     div.content
       !=content
       
-    != getBlock('scripts').toHTML()
+  != getBlock('scripts').toHTML()

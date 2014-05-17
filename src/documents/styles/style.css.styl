@@ -21,19 +21,35 @@ open-sans-semibold()
   font-style: normal
   font-weight: 600
 
+display-flex()
+  display: -webkit-flex
+  display: -ms-flex
+  display: flex
+
+flex(args)
+  -webkit-flex: args
+  -ms-flex: args
+  flex: args
+
+
+highlight(level)
+  color: $NAV1_CURRENT_COLOR
+  background-color: $NAV1_CURRENT_BACKGROUND
+  border-left: 0.5em solid $NAV1_CURRENT_BORDER
+  margin-left: -1em - level * 1em
+  padding-left: 0.5em + level * 1em
+
 html
 body
   padding: 0
   margin: 0
   open-sans()
+  display-flex()
   
 /* Linke Spalte */
 
 .navigation
-  position: relative
-  float: left
-  height: 100%
-  width: 21em
+  flex(none)
   padding: 0.5em 1em
   debug(0)
   
@@ -66,21 +82,24 @@ body
         list-style: none
         padding: 0
         margin: 0
-        
-        > a
+
+        > div a
           text-decoration: none
           color: $TEXT_COLOR
+          z-index: 1
         
-        &.hasChildren > a:after
+        &.hasChildren > div a:after
           content: '˅'
           
-        &.current
-          color: $NAV1_CURRENT_COLOR
-          background-color: $NAV1_CURRENT_BACKGROUND
-          border-left: 0.5em solid $NAV1_CURRENT_BORDER
-          
+        &.current > div
+          highlight(0)
+
         li
           padding-left: 1em
+
+          &.current > div
+            highlight(1)
+
       
   /* Footer */
   
@@ -88,3 +107,7 @@ body
     debug(4)
     position: absolute
     bottom: 0
+
+.content
+  flex(auto)
+  debug(2)
