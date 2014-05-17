@@ -1,11 +1,31 @@
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600');
 @import 'normalize.css.styl'
 
+$TEXT_COLOR = #666666
+$NAV1_CURRENT_COLOR = #333333
+$NAV1_CURRENT_BACKGROUND = #e8e8e8
+$NAV1_CURRENT_BORDER = #6685a3
+
+$DEBUG_COLOR = yellow
+
+debug(amount)
+  background-color: lighten(yellow, amount * 20%)
+
+open-sans()
+  font-family: 'Open Sans', sans-serif
+  font-style: normal
+  font-weight: 400
+
+open-sans-semibold()
+  font-family: 'Open Sans', sans-serif
+  font-style: normal
+  font-weight: 600
+
 html
 body
   padding: 0
   margin: 0
-  font-family: 'Open Sans', sans-serif;
+  open-sans()
   
 /* Linke Spalte */
 
@@ -15,10 +35,13 @@ body
   height: 100%
   width: 21em
   padding: 0.5em 1em
+  debug(0)
   
   /* Headline */
   
   h1
+    debug(2)
+    open-sans-semibold()
     font-size: (46/12) em
     text-transform: uppercase
     text-align: center
@@ -26,12 +49,14 @@ body
     /* Subline */
 
     div
+      debug(3)
       font-size: (12/46) em
       text-transform: uppercase
       
   /* Hauptnavigation */
   
   nav
+    debug(3)
     ul
       padding: 0
       margin: 0
@@ -44,14 +69,15 @@ body
         
         > a
           text-decoration: none
-          color: gray
+          color: $TEXT_COLOR
         
         &.hasChildren > a:after
           content: '˅'
           
         &.current
-          background-color: lightgray
-          border-left: 0.5em solid blue
+          color: $NAV1_CURRENT_COLOR
+          background-color: $NAV1_CURRENT_BACKGROUND
+          border-left: 0.5em solid $NAV1_CURRENT_BORDER
           
         li
           padding-left: 1em
@@ -59,5 +85,6 @@ body
   /* Footer */
   
   address
+    debug(4)
     position: absolute
     bottom: 0
