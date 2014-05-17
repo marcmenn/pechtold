@@ -31,6 +31,10 @@ flex(args)
   -ms-flex: args
   flex: args
 
+flex-flow(args)
+  -webkit-flex-flow: args
+  -ms-flex-flow: args
+  flex-flow: args
 
 highlight(level)
   color: $NAV1_CURRENT_COLOR
@@ -49,13 +53,17 @@ body
 /* Linke Spalte */
 
 .navigation
-  flex(none)
-  padding: 0.5em 1em
   debug(0)
-  
+  flex(none)
+  display-flex()
+  flex-flow(column nowrap)
+  width: 19.5em /* Depend on Logo */
+  padding: 0.5em 1em
+
   /* Headline */
   
   h1
+    flex(none)
     debug(2)
     open-sans-semibold()
     font-size: (46/12) em
@@ -73,6 +81,7 @@ body
   
   nav
     debug(3)
+    flex(auto)
     ul
       padding: 0
       margin: 0
@@ -104,9 +113,8 @@ body
   /* Footer */
   
   address
+    flex(none)
     debug(4)
-    position: absolute
-    bottom: 0
 
 .content
   flex(auto)
