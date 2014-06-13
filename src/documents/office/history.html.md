@@ -3,7 +3,7 @@ menuTitle: Geschichte
 menuOrder: 1
 ---
 
-# Portrait Manfred Pechtold:
+# Portrait Manfred Pechtold
 
 geb. 1941
 

@@ -2,14 +2,15 @@
 @import 'normalize.css.styl'
 
 $TEXT_COLOR = #666666
+$TEXT_COLOR_SECUNDARY = #999999
 $NAV1_CURRENT_COLOR = #333333
 $NAV1_CURRENT_BACKGROUND = #e8e8e8
 $NAV1_CURRENT_BORDER = #6685a3
 
-$DEBUG_COLOR = yellow
+$DEBUG_COLOR = #ffffff
 
 debug(amount)
-  background-color: lighten(yellow, amount * 20%)
+  -debug-background-color: lighten(#ffffff, amount * 20%)
 
 open-sans()
   font-family: 'Open Sans', sans-serif
@@ -46,8 +47,9 @@ highlight(level)
   color: $NAV1_CURRENT_COLOR
   background-color: $NAV1_CURRENT_BACKGROUND
   border-left: 0.5em solid $NAV1_CURRENT_BORDER
-  margin-left: -1em - level * 1em
-  padding-left: 0.5em + level * 1em
+  margin-left: -1.5em
+  margin-right: -1.5em
+  padding-left: 1em
 
 html
 body
@@ -65,8 +67,10 @@ aside
   flex-flow(column nowrap)
   align-self(flex-start)
   min-height: 100%
-  width: 19.5em /* Depend on Logo */
-  padding: 0.5em 1em
+  width: 16em /* Depend on Logo */
+  padding: 5em 1.5em 3em 1.5em
+  margin-right: 1.5em
+  -webkit-box-shadow: 0 0 2px 2px rgba(119,119,119,0.30)
 
   /* Headline */
   
@@ -74,7 +78,11 @@ aside
     flex(none)
     debug(2)
     open-sans-semibold()
-    font-size: (46/12) em
+    margin-bottom: 1em
+    color: $NAV1_CURRENT_BORDER
+    font-size: 2.75em
+    line-height: 0.7em
+    letter-spacing: 0.08em
     text-transform: uppercase
     text-align: center
     
@@ -82,8 +90,12 @@ aside
 
     div
       debug(3)
-      font-size: (12/46) em
+      open-sans-semibold()
+      font-size: 0.3em
+      font-weight: 200
+      letter-spacing: 0.02em
       text-transform: uppercase
+      color: $TEXT_COLOR
       
   /* Hauptnavigation */
   
@@ -93,7 +105,7 @@ aside
 
     ul
       padding: 0
-      margin: 0
+      margin:0
       
       li
         display: block
@@ -102,30 +114,36 @@ aside
         margin: 0
 
         > div a
+          open-sans()
           text-decoration: none
+          font-size: 1em
+          line-height: 2.5em
           color: $TEXT_COLOR
           z-index: 1
         
         &.hasChildren > div a:after
-          content: '˅'
+          content: ' >'
           
         &.current > div
           highlight(0)
 
         li
-          padding-left: 1em
+          padding: 0
 
           &.current > div
             highlight(1)
-
       
   /* Footer */
   
   footer
     flex(none)
     debug(4)
+    font-size: 0.8em
+    color: $TEXT_COLOR
 
 /* Content */
 article
   flex(auto)
   debug(2)
+  -aus-padding: 5em 1.5em 3em 1.5em
+  color: $TEXT_COLOR
