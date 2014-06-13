@@ -7,10 +7,7 @@ $NAV1_CURRENT_COLOR = #333333
 $NAV1_CURRENT_BACKGROUND = #e8e8e8
 $NAV1_CURRENT_BORDER = #6685a3
 
-$DEBUG_COLOR = #ffffff
-
 debug(amount)
-  -debug-background-color: lighten(#ffffff, amount * 20%)
 
 open-sans()
   font-family: 'Open Sans', sans-serif
@@ -42,14 +39,10 @@ align-self(args)
   -ms-align-self: args
   align-self: args
 
-
-highlight(level)
-  color: $NAV1_CURRENT_COLOR
-  background-color: $NAV1_CURRENT_BACKGROUND
-  border-left: 0.5em solid $NAV1_CURRENT_BORDER
-  margin-left: -1.5em
-  margin-right: -1.5em
-  padding-left: 1em
+box-shadow(args)
+  -webkit-box-shadow: args
+  -ms-box-shadow: args
+  box-shadow: args
 
 html
 body
@@ -70,7 +63,7 @@ aside
   width: 16em /* Depend on Logo */
   padding: 5em 1.5em 3em 1.5em
   margin-right: 1.5em
-  -webkit-box-shadow: 0 0 2px 2px rgba(119,119,119,0.30)
+  box-shadow(0 0 2px 2px rgba(119,119,119,0.30))
 
   /* Headline */
   
@@ -105,7 +98,7 @@ aside
 
     ul
       padding: 0
-      margin:0
+      margin: 0
       
       li
         display: block
@@ -125,14 +118,13 @@ aside
           content: ' >'
           
         &.current > div
-          highlight(0)
+          color: $NAV1_CURRENT_COLOR
+          background-color: $NAV1_CURRENT_BACKGROUND
+          border-left: 0.5em solid $NAV1_CURRENT_BORDER
+          margin-left: -1.5em
+          margin-right: -1.5em
+          padding-left: 1em
 
-        li
-          padding: 0
-
-          &.current > div
-            highlight(1)
-      
   /* Footer */
   
   footer
