@@ -6,6 +6,7 @@ $TEXT_COLOR_SECUNDARY = #999999
 $NAV1_CURRENT_COLOR = #333333
 $NAV1_CURRENT_BACKGROUND = #e8e8e8
 $NAV1_CURRENT_BORDER = #6685a3
+$NAV2_BACKGROUND = $NAV1_CURRENT_BACKGROUND
 
 debug(amount)
 
@@ -50,7 +51,19 @@ body
   margin: 0
   open-sans()
   display-flex()
-  
+
+/* Navigation generell */
+nav
+  ul
+    padding: 0
+    margin: 0
+
+    li
+      display: block
+      list-style: none
+      padding: 0
+      margin: 0
+
 /* Linke Spalte */
 
 aside
@@ -97,15 +110,7 @@ aside
     flex(auto)
 
     ul
-      padding: 0
-      margin: 0
-      
       li
-        display: block
-        list-style: none
-        padding: 0
-        margin: 0
-
         > div a
           open-sans()
           text-decoration: none
@@ -132,6 +137,11 @@ aside
     debug(4)
     font-size: 0.8em
     color: $TEXT_COLOR
+
+/* Zweite Navigation */
+nav.second
+  flex(none)
+  background-color: $NAV2_BACKGROUND
 
 /* Content */
 article
