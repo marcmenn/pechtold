@@ -1,6 +1,6 @@
 ---
 title: Gropius-Passagen Berlin-Neukölln
-category: Industrie und Gewerbe
+tags: [Industrie und Gewerbe]
 menuOrder: 2
 associatedFilesPath: gropius
 ---

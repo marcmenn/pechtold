@@ -1,6 +1,6 @@
 ---
 title: Hotel am Hauptbahnhof, Berlin-Mitte
-category: Industrie und Gewerbe
+tags: [Industrie und Gewerbe]
 menuOrder: 3
 associatedFilesPath: hotel-hbf
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fachmarktzentrum mit Hotel Landsberger Allee
-category: Industrie und Gewerbe
+tags: [Industrie und Gewerbe]
 menuOrder: 4
 associatedFilesPath: landsberger
 ---
