@@ -1,6 +1,7 @@
 {
   "name": "www.pechtold.de",
   "version": "0.1.0",
+  "repository": "git://git.global-communication.de/pechtold",
   "engines": {
     "node": "0.10",
     "npm": "1.3"
