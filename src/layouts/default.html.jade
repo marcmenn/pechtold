@@ -23,8 +23,10 @@ html
     != getBlock('styles').add(['/styles/style.css']).toHTML()
   body
     aside
-        header Pechtold
-          div Gesellschaft von Architekten mbH
+        header
+          a(href='/')
+            | Pechtold
+            div Gesellschaft von Architekten mbH
         nav
             +menu(menu, 1)
         footer
