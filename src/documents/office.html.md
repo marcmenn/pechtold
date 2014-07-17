@@ -24,3 +24,19 @@ HOAI Leistungsphasen 1-9
 Zur Zeit beschäftigen wir 15 Architekten, eine techn. Zeichnerin und eine Sekretärin. Bei Bedarf kann auf bewährte freie Mitarbeiter zurückgegriffen werden.
 
 Wir haben derzeit 18 CAD-Arbeitsplätze, 2 3D-Arbeitsplätze und  4 EDV-Arbeitsplätze(AutoCAD, Microsoft Office, ADT, Photoshop, Illustrator, Orca-AVA), die Anlage ist jederzeit erweiterbar.
+
+# Portrait Manfred Pechtold
+
+geb. 1941
+
+Studium der Architektur an der technischen Universität Berlin
+
+1968 Diplom der Architektur bei Prof. O. M. Ungers
+
+selbstständig seit 1975
+
+seit 1983 Mitglied beim Bund Deutscher Architekten (BDA)
+
+seit 1987 Mitglied der Architektenkammer Berlin
+
+seit 1994 alleiniger Büroinhaber (Architekturbüro Pechtold)

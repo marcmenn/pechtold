@@ -2,6 +2,10 @@
 # http://docpad.org/docs/config
 
 # Define the DocPad Configuration
+setDefaults = (model) ->
+    isProject = model.attributes.relativeOutDirPath is 'projects'
+    model.setMetaDefaults({layout:"default", isPage: !isProject, menuOrder: 0})
+
 docpadConfig = {
     collections:
         pages: ->
@@ -9,7 +13,7 @@ docpadConfig = {
                 model.setMetaDefaults({layout:"default", isPage: true, menuOrder: 0})
 
         mainnav: ->
-            @getCollection("pages").findAllLive({isPage: true, relativeOutDirPath: '.'})
+            @getCollection("pages").findAllLive({relativeOutDirPath: '.'})
 
     templateData:
         site:
