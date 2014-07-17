@@ -9,7 +9,7 @@ docpadConfig = {
                 model.setMetaDefaults({layout:"default", isPage: true, menuOrder: 0})
 
         mainnav: ->
-            @getCollection("pages").findAllLive({relativeOutDirPath: '.'})
+            @getCollection("pages").findAllLive({isPage: true, relativeOutDirPath: '.'})
 
     templateData:
         site:

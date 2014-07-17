@@ -1,7 +1,7 @@
 ---
 menuTitle: Home
 menuOrder: 0
-associatedFilesPath: index
+associatedFilesPath: home
 ---
 # Planen und Bauen seit 1975
 # Inhaber:

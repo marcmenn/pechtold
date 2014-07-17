@@ -36,5 +36,9 @@ html
 
     article
       !=content
-      
+      each file in getDocument().getAssociatedFiles().toJSON()
+        h3= file.title || file.name
+        p
+          img(src=file.url)
+
   != getBlock('scripts').toHTML()
