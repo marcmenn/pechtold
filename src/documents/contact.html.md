@@ -3,7 +3,7 @@ menuTitle: Kontakt
 menuOrder: 6
 ---
 
-# Dipl.-Ing. BDA Pechtold
+# Pechtold Gesellschaft von Architekten mbH
 Pariser Straße 44  
 10707 Berlin  
 Tel.: 030 8845950  
