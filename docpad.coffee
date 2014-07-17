@@ -4,7 +4,7 @@
 # Define the DocPad Configuration
 setDefaults = (model) ->
     isProject = model.attributes.relativeOutDirPath is 'projects'
-    model.setMetaDefaults({layout:"default", isPage: !isProject, menuOrder: 0})
+    model.setMetaDefaults({layout:"default", isPage: !isProject, menuOrder: 0, pageClass: 'page'})
 
 docpadConfig = {
     collections:
@@ -20,8 +20,9 @@ docpadConfig = {
             title: "Architekturbüro Pechtold"
         getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
         images: """<t render="jade">
-each file in getDocument().getAssociatedFiles().toJSON()
-  img(src=file.url)
+div.images
+  each file in getDocument().getAssociatedFiles().toJSON()
+    img(src=file.url)
 </t>
 """
         projects: """<t render="jade">

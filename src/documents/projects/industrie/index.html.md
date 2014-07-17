@@ -5,9 +5,13 @@ menuOrder: 1
 menuTitle: Industrie und Gewerbe
 associatedFilesPath: schloss
 ---
-# 2000-2006, "Das Schloss"
+# Das Schloss
 
-Schlossstr. 34-37/Grunewaldstr. 1-3, Berlin-Steglitz
+<t>images</t>
+
+2000 – 2006<br/>
+Schlossstr. 34-37/Grunewaldstr. 1-3<br/>
+Berlin-Steglitz
 
 Einkaufszentrum (35.000 m² Verkaufsfläche, Bezirksbibliothek, Büroflächen, Tiefgarage)
 
