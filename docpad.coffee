@@ -19,6 +19,11 @@ docpadConfig = {
         site:
             title: "Architekturbüro Pechtold"
         getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
+        images: """<t render="jade">
+each file in getDocument().getAssociatedFiles().toJSON()
+  img(src=file.url)
+</t>
+"""
         projects: """<t render="jade">
 ul
     each page in getCollection("pages").findAll({relativeOutDirPath: 'projects'}).toJSON()
