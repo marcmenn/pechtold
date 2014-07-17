@@ -2,5 +2,6 @@
 menuTitle: Home
 menuOrder: 0
 associatedFilesPath: home
+pageClass: home
 ---
-<div class="home"><t>images</t></div>
+<t>images</t>

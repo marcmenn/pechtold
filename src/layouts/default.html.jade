@@ -21,7 +21,7 @@ html
     title= getPreparedTitle()
     != getBlock('meta').toHTML()
     != getBlock('styles').add(['/styles/style.css']).toHTML()
-  body
+  body(class=getDocument().meta.get('pageClass'))
     aside
         header
           a(href='/')
