@@ -2,15 +2,11 @@
 # http://docpad.org/docs/config
 
 # Define the DocPad Configuration
-setDefaults = (model) ->
-    isProject = model.attributes.relativeOutDirPath is 'projects'
-    model.setMetaDefaults({layout:"default", isPage: !isProject, menuOrder: 0, pageClass: 'page'})
-
 docpadConfig = {
     collections:
         pages: ->
             @getCollection("html").findAllLive({},[{menuOrder:1},{menuTitle:1}]).on "add", (model) ->
-                model.setMetaDefaults({layout:"default", isPage: true, menuOrder: 0})
+                model.setMetaDefaults({layout:"default", isPage: true, menuOrder: 0, pageClass: 'page'})
 
         mainnav: ->
             @getCollection("pages").findAllLive({relativeOutDirPath: '.'})
