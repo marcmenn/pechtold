@@ -6,6 +6,7 @@ $TEXT_COLOR_SECUNDARY = #999999
 $NAV1_CURRENT_COLOR = #333333
 $NAV1_CURRENT_BACKGROUND = #e8e8e8
 $NAV1_CURRENT_BORDER = #6685a3
+$TEXT_COLOR_NEGATIVE = #ffffff
 $NAV2_BACKGROUND = $NAV1_CURRENT_BACKGROUND
 
 debug(amount)
@@ -105,12 +106,14 @@ aside
         letter-spacing: 0.02em
         text-transform: uppercase
         color: $TEXT_COLOR
-        &:before
-          width: 3em
-          height: 1em
-          background: deepskyblue
-          margin: (36/16em) auto (5/16em)
-          position: relative
+      span
+        background-color: $NAV1_CURRENT_BORDER
+        padding-left: 0.15 em
+        padding-right: 0.15em
+        margin-left: 0.15em
+        margin-right: 0.15em
+        color: $TEXT_COLOR_NEGATIVE
+
       
   /* Hauptnavigation */
   
@@ -164,12 +167,11 @@ nav.second
       color: $TEXT_COLOR
 
     &.current > div
-      color: $NAV1_CURRENT_COLOR
-      background-color: $NAV1_CURRENT_BACKGROUND
       border-left: 0.5em solid $NAV1_CURRENT_BORDER
       margin-right: -1.5em
       margin-left: -1.5em
       padding: 0.25em 0em 0.25em 1em
+      color: $NAV1_CURRENT_COLOR
 
 /* Content */
 article
