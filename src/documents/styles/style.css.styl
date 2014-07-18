@@ -1,5 +1,7 @@
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600');
-@import 'normalize.css.styl'
+
+@require 'normalize.inc.styl'
+@require 'polyfills.inc.styl'
 
 $TEXT_COLOR = #666666
 $TEXT_COLOR_SECUNDARY = #999999
@@ -20,44 +22,6 @@ open-sans-semibold()
   font-family: 'Open Sans', sans-serif
   font-style: normal
   font-weight: 600
-
-/* CSS3 Polyfills */
-
-display(type)
-    if type == inline-flex
-        display: inline-block
-        display: -ms-inline-flexbox   // OLD - iOS 6-, Safari 3.1-6
-        display: -webkit-inline-flex  // OLD - iOS 6-, Safari 3.1-6
-        display: inline-flex
-
-    else if type == flex
-        display: inline-block
-        display: -ms-flexbox    // TWEENER - IE 10
-        display: -webkit-flex   // NEW - Chrome
-        display: flex
-
-    else
-        display: type
-
-flex(grow, shrink = null, basis = null)
-  -webkit-flex: grow shrink basis
-  -ms-flex: grow shrink basis
-  flex: grow shrink basis
-
-flex-flow(flexDirection, flexWrap = null)
-  -webkit-flex-flow: flexDirection flexWrap
-  -ms-flex-flow: flexDirection flexWrap
-  flex-flow: flexDirection flexWrap
-
-align-self(value)
-  -webkit-align-self: value
-  -ms-align-self: value
-  align-self: value
-
-box-shadow()
-  -webkit-box-shadow: arguments
-  -ms-box-shadow: arguments
-  box-shadow: arguments
 
 html
 body
