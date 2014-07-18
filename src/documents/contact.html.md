@@ -5,7 +5,13 @@ menuOrder: 6
 
 # Kontakt
 
-<t render="eco">Hallo</t>
+
+<script src="http://maps.google.com/maps/api/js?sensor=false"> </script>
+<t render="jade">
+div(id="gmap")
+    div(id="gmap_canvas")
+</t>
+<script src="/scripts/map.js"> </script>
 
 ## Pechtold Gesellschaft von Architekten mbH
 Pariser Straße 44  
