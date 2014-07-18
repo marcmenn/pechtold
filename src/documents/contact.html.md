@@ -5,12 +5,13 @@ menuOrder: 6
 
 # Kontakt
 
+<address lat="52.49778" long="13.31968">
+**Pechtold Gesellschaft von Architekten**
+<br/>Pariser Straße 44
+<br/>10707 Berlin
+</address>
 
 <script src="http://maps.google.com/maps/api/js?sensor=false"> </script>
-<t render="jade">
-div(id="gmap")
-    div(id="gmap_canvas")
-</t>
 <script src="/scripts/map.js"> </script>
 
 ## Pechtold Gesellschaft von Architekten mbH
