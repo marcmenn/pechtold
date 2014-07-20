@@ -37,11 +37,14 @@ modelDefaults = (model) ->
     model.setMetaDefaults defaults
 
 injectTag = (model) ->
+    title = model.meta.get 'tag'
+    title = "Projekte" if title is defaultProjectTag
+
     model.setMeta
         layout: 'tags'
         isPage: 'true'
         menuOrder: 10
-        title: model.meta.get 'tag'
+        title: title
         data: tagData
         isTag: true
 
@@ -66,7 +69,6 @@ module.exports =
             result = @generateMenu(@document.url, 'documents')
             for item in result
                 if item.url == '/projects/'
-                    item.title = "Projekte"
                     art = ->
                     art.prototype = item
                     a = new art()
