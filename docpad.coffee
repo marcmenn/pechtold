@@ -3,27 +3,53 @@
 
 # Define the DocPad Configuration
 
+defaultProjectTag = "index"
+
 partialText = (file) ->
     {extname} = require 'path'
     {readFileSync} = require 'fs'
     data = readFileSync "./src/partials/#{file}"
     return "<t render=\"#{extname file}\">\n#{data}\n</t>"
 
+modelDefaults = (model) ->
+    defaults =
+        layout: "default"
+        isPage: true
+        menuOrder: 0
+        pageClass: 'page'
+
+    if model.attributes.relativeDirPath == 'projects'
+        unless model.attributes.basename == 'index'
+            console.log model.meta
+            defaults.menuHidden = true
+            tags = model.meta.get 'tags'
+            unless tags
+                defaults.tags = [defaultProjectTag]
+            else
+                tags = [tags] unless Array.isArray tags
+                tags.push defaultProjectTag
+                model.meta.set 'tags', tags
+
+    model.setMetaDefaults defaults
+
+injectTag = (model) ->
+    model.setMeta
+        layout: 'tags'
+        isPage: 'true'
+        menuOrder: 0
+
 module.exports =
     collections:
         pages: ->
-            @getCollection("html").findAllLive({},[{menuOrder:1},{menuTitle:1}]).on "add", (model) ->
-                model.setMetaDefaults({layout:"default", isPage: true, menuOrder: 0, pageClass: 'page'})
-
+            @getCollection("html").findAllLive({},[{menuOrder:1},{menuTitle:1}]).on "add", modelDefaults
         mainnav: ->
             @getCollection("pages").findAllLive({relativeOutDirPath: '.'})
 
     plugins:
         tags:
+            extension: '.html.json'
             relativeDirPath: 'projects'
-            injectDocumentHelper: (document) ->
-                document.setMeta
-                    layout: 'tags'
+            injectDocumentHelper: injectTag
 
     templateData:
         site:
@@ -31,7 +57,10 @@ module.exports =
         getPreparedTitle: ->
             if @document.title then "#{@document.title} | #{@site.title}" else @site.title
         menu: ->
-            @generateMenu(@document.url, 'pages')
+            result = @generateMenu(@document.url, 'pages')
+#            if @document.url == '/projects/index.html'
+#                console.log result
+            return result
         secondMenu: ->
             for item in @menu()
                 if item.children && item.state != false

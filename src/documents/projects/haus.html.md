@@ -1,5 +1,5 @@
 ---
 title: Ein Haus
-tags: [Häuser]
+tags: Häuser
 ---
 Schön
