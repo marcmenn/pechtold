@@ -23,7 +23,7 @@ modelDefaults = (model) ->
         pageClass: 'page'
 
     if model.attributes.relativeDirPath == 'projects'
-        unless model.meta.get 'isTag'
+        unless model.meta.get 'menuTag'
             defaults.layout = "included"
             defaults.menuProject = true
             tags = model.meta.get 'tags'
@@ -46,7 +46,7 @@ injectTag = (model) ->
         menuOrder: 10
         title: title
         data: tagData
-        isTag: true
+        menuTag: true
 
 module.exports =
     renderPasses: 2
@@ -77,6 +77,13 @@ module.exports =
                     item.children.unshift a
 
             return result
+
+        filter: (menuItems = []) ->
+            result = []
+            for item in menuItems
+                result.push item unless item.meta.project
+            return result
+
         secondMenu: ->
             for item in @menu()
                 if item.children && item.state != false
