@@ -40,13 +40,11 @@ injectTag = (model) ->
 module.exports =
     collections:
         pages: ->
-            @getCollection("html").findAllLive({},[{menuOrder:1},{menuTitle:1}]).on "add", modelDefaults
-        mainnav: ->
-            @getCollection("pages").findAllLive({relativeOutDirPath: '.'})
+            @getCollection('html').findAllLive({},[{menuOrder:1},{menuTitle:1}]).on 'add', modelDefaults
 
     plugins:
         tags:
-            extension: '.html.json'
+            extension: '.html'
             relativeDirPath: 'projects'
             injectDocumentHelper: injectTag
 
@@ -56,7 +54,7 @@ module.exports =
         getPreparedTitle: ->
             if @document.title then "#{@document.title} | #{@site.title}" else @site.title
         menu: ->
-            result = @generateMenu(@document.url, 'pages')
+            result = @generateMenu(@document.url, 'documents')
             for item in result
                 if item.url == '/projects/'
                     console.log item.children
