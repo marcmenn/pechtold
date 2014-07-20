@@ -2,7 +2,14 @@
 # http://docpad.org/docs/config
 
 # Define the DocPad Configuration
-docpadConfig = {
+
+partialText = (file) ->
+    {extname} = require 'path'
+    {readFileSync} = require 'fs'
+    data = readFileSync "./src/partials/#{file}"
+    return "<t render=\"#{extname file}\">\n#{data}\n</t>"
+
+module.exports =
     collections:
         pages: ->
             @getCollection("html").findAllLive({},[{menuOrder:1},{menuTitle:1}]).on "add", (model) ->
@@ -11,31 +18,24 @@ docpadConfig = {
         mainnav: ->
             @getCollection("pages").findAllLive({relativeOutDirPath: '.'})
 
-    templateData:
-        site:
-            title: "Architekturbüro Pechtold"
-        getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
-        images: """<t render="jade">
-div.images
-  each file in getDocument().getAssociatedFiles().toJSON()
-    img(src=file.url)
-</t>
-"""
-        projects: """<t render="jade">
-ul
-    each page in getCollection("pages").findAll({relativeOutDirPath: 'projects'}).toJSON()
-        li(class=[page.id == document.id ? 'active' : 'inactive'])
-            a(href=page.url)= page.title ? page.title : page.name
-            span= page.category
-</t>
-"""
     plugins:
         tags:
             relativeDirPath: 'projects'
             injectDocumentHelper: (document) ->
                 document.setMeta
                     layout: 'tags'
-}
 
-# Export the DocPad Configuration
-module.exports = docpadConfig
+    templateData:
+        site:
+            title: "Architekturbüro Pechtold"
+        getPreparedTitle: ->
+            if @document.title then "#{@document.title} | #{@site.title}" else @site.title
+        menu: ->
+            @generateMenu(document.url, 'pages')
+        secondMenu: ->
+            for item in menu()
+                if item.children && item.state != false
+                    return item.children
+            return []
+        images: partialText('images.jade')
+        projects: partialText('projects.jade')
