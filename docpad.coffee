@@ -31,9 +31,9 @@ module.exports =
         getPreparedTitle: ->
             if @document.title then "#{@document.title} | #{@site.title}" else @site.title
         menu: ->
-            @generateMenu(document.url, 'pages')
+            @generateMenu(@document.url, 'pages')
         secondMenu: ->
-            for item in menu()
+            for item in @menu()
                 if item.children && item.state != false
                     return item.children
             return []
