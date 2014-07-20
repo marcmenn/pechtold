@@ -31,11 +31,12 @@ html
                     +menu(menu(), 1)
             footer
                 != partial('address')
-        div.border
+        .border
         if secondMenu().length
             nav.second
                 +menu(secondMenu())
-        article
-            block content
+        .article
+            article
+                block content
 
     != getBlock('scripts').toHTML()

@@ -95,9 +95,7 @@ module.exports =
             filter = tags: $has: tag
             if tag == 'index'
                 filter = menuProject: true
-            result = @getFiles(filter).toJSON()
-            console.log "#{tag}: #{result.length}"
-            result
+            @getFiles(filter).toJSON()
 
 
         images: partialText('images.jade')
