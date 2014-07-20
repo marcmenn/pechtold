@@ -16,6 +16,11 @@ partialText = (file) ->
 tagData = partial 'tag.jade'
 
 modelDefaults = (model) ->
+    tags = model.meta.get 'tags'
+    if tags? && !Array.isArray tags
+        tags = [tags]
+        model.meta.set 'tags', tags
+
     defaults =
         layout: "default"
         isPage: true
@@ -26,13 +31,10 @@ modelDefaults = (model) ->
         unless model.meta.get 'menuTag'
             defaults.layout = "included"
             defaults.menuProject = true
-            tags = model.meta.get 'tags'
-            unless tags
-                defaults.tags = [defaultProjectTag]
-            else
-                tags = [tags] unless Array.isArray tags
-                tags.push defaultProjectTag
-                model.meta.set 'tags', tags
+            tags ?= []
+            tags.push defaultProjectTag
+
+    model.meta.set 'tags', tags
 
     model.setMetaDefaults defaults
 
@@ -90,7 +92,13 @@ module.exports =
                     return item.children
             return []
         byTag: (tag) ->
-            @getFiles(tags: $has: @document.tag).toJSON()
+            filter = tags: $has: tag
+            if tag == 'index'
+                filter = menuProject: true
+            result = @getFiles(filter).toJSON()
+            console.log "#{tag}: #{result.length}"
+            result
+
 
         images: partialText('images.jade')
         projects: partialText('projects.jade')
