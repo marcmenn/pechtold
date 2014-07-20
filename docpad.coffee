@@ -15,12 +15,12 @@ modelDefaults = (model) ->
     defaults =
         layout: "default"
         isPage: true
-        menuOrder: 0
+        menuOrder: 10
         pageClass: 'page'
 
     if model.attributes.relativeDirPath == 'projects'
         unless model.attributes.basename == 'index'
-            defaults.menuHidden = true
+            defaults.menuProject = true
             tags = model.meta.get 'tags'
             unless tags
                 defaults.tags = [defaultProjectTag]
@@ -35,7 +35,7 @@ injectTag = (model) ->
     model.setMeta
         layout: 'tags'
         isPage: 'true'
-        menuOrder: 0
+        menuOrder: 10
 
 module.exports =
     collections:
@@ -57,7 +57,13 @@ module.exports =
             result = @generateMenu(@document.url, 'documents')
             for item in result
                 if item.url == '/projects/'
-                    console.log item.children
+                    item.title = "Projekte"
+                    art = ->
+                    art.prototype = item
+                    a = new art()
+                    a.title = "Alle"
+                    a.children = []
+                    item.children.unshift a
             return result
         secondMenu: ->
             for item in @menu()

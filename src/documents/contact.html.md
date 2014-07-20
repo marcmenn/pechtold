@@ -1,6 +1,6 @@
 ---
 menuTitle: Kontakt
-menuOrder: 6
+menuOrder: 20
 ---
 
 # Kontakt

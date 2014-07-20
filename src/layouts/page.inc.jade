@@ -3,11 +3,12 @@ mixin menu(menuItems, maxLevel)
     ul.nav
         each item in menuItems
             li(class=[item.state, item.children ? 'hasChildren' : null])
-            div
-            a(href=item.url)= item.title
-                unless maxLevel == 1
-                    if item.children && item.state != false
-                        +menu(item.children, maxLevel--)
+                div
+                    a(href=item.url)= item.title
+                    unless maxLevel == 1
+                        if item.children && item.state != false
+                            +menu(item.children, maxLevel--)
+
 html
     head
         meta(charset="utf-8")
