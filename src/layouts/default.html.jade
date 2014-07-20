@@ -1,41 +1,4 @@
-mixin menu(menuItems, maxLevel)
-    - maxLevel = maxLevel || 100
-    ul.nav
-        each item in menuItems
-            li(class=[item.state, item.children ? 'hasChildren' : null])
-                div
-                    a(href=item.url)= item.title
-                unless maxLevel == 1
-                    if item.children && item.state != false
-                        +menu(item.children, maxLevel--)
+extends ./page.inc
 
-html
-  head
-    meta(charset="utf-8")
-    title= getPreparedTitle()
-    != getBlock('meta').toHTML()
-    != getBlock('styles').add(['/styles/style.css']).toHTML()
-  body(class=getDocument().meta.get('pageClass'))
-    aside
-      div
-        header
-          a(href='/')
-            | Pechtold
-            div
-             | Gesellschaft von
-             span Architekten
-             | mbH
-        nav
-            +menu(menu(), 1)
-      footer
-        != partial('address')
-    div.border
-
-    if secondMenu().length
-      nav.second
-        +menu(secondMenu())
-
-    article
-      !=content
-
-  != getBlock('scripts').toHTML()
+block content
+  !=content

@@ -20,7 +20,6 @@ modelDefaults = (model) ->
 
     if model.attributes.relativeDirPath == 'projects'
         unless model.attributes.basename == 'index'
-            console.log model.meta
             defaults.menuHidden = true
             tags = model.meta.get 'tags'
             unless tags
@@ -58,8 +57,9 @@ module.exports =
             if @document.title then "#{@document.title} | #{@site.title}" else @site.title
         menu: ->
             result = @generateMenu(@document.url, 'pages')
-#            if @document.url == '/projects/index.html'
-#                console.log result
+            for item in result
+                if item.url == '/projects/'
+                    console.log item.children
             return result
         secondMenu: ->
             for item in @menu()
