@@ -1,8 +1,6 @@
 ---
 title: Schloss-Galerie Berlin-Steglitz (Das Schloss)
 tags: [Industrie und Gewerbe]
-menuOrder: 1
-menuTitle: Industrie und Gewerbe
 associatedFilesPath: schloss
 ---
 # Das Schloss

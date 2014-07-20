@@ -29,6 +29,12 @@ ul
             span= page.category
 </t>
 """
+    plugins:
+        tags:
+            relativeDirPath: 'projects'
+            injectDocumentHelper: (document) ->
+                document.setMeta
+                    layout: 'tags'
 }
 
 # Export the DocPad Configuration
