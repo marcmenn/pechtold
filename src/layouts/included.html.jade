@@ -1,0 +1,8 @@
+h1= document.title
+
+if getDocument().getAssociatedFiles().toJSON().length
+    div.images
+      each file in getDocument().getAssociatedFiles().toJSON()
+        img(src=file.url)
+
+!= content

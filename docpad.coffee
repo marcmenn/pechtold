@@ -5,11 +5,15 @@
 
 defaultProjectTag = "index"
 
+partial = (file) ->
+    {readFileSync} = require 'fs'
+    readFileSync "./src/partials/#{file}"
+
 partialText = (file) ->
     {extname} = require 'path'
-    {readFileSync} = require 'fs'
-    data = readFileSync "./src/partials/#{file}"
-    return "<t render=\"#{extname file}\">\n#{data}\n</t>"
+    return "<t render=\"#{extname file}\">\n#{partial file}\n</t>"
+
+tagData = partial 'tag.jade'
 
 modelDefaults = (model) ->
     defaults =
@@ -19,7 +23,8 @@ modelDefaults = (model) ->
         pageClass: 'page'
 
     if model.attributes.relativeDirPath == 'projects'
-        unless model.attributes.basename == 'index'
+        unless model.meta.get 'isTag'
+            defaults.layout = "included"
             defaults.menuProject = true
             tags = model.meta.get 'tags'
             unless tags
@@ -36,15 +41,19 @@ injectTag = (model) ->
         layout: 'tags'
         isPage: 'true'
         menuOrder: 10
+        title: model.meta.get 'tag'
+        data: tagData
+        isTag: true
 
 module.exports =
+    renderPasses: 2
     collections:
         pages: ->
             @getCollection('html').findAllLive({},[{menuOrder:1},{menuTitle:1}]).on 'add', modelDefaults
 
     plugins:
         tags:
-            extension: '.html'
+            extension: '.html.jade'
             relativeDirPath: 'projects'
             injectDocumentHelper: injectTag
 
@@ -64,11 +73,15 @@ module.exports =
                     a.title = "Alle"
                     a.children = []
                     item.children.unshift a
+
             return result
         secondMenu: ->
             for item in @menu()
                 if item.children && item.state != false
                     return item.children
             return []
+        byTag: (tag) ->
+            @getFiles(tags: $has: @document.tag).toJSON()
+
         images: partialText('images.jade')
         projects: partialText('projects.jade')

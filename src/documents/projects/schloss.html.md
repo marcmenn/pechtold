@@ -4,10 +4,6 @@ tags: [Industrie und Gewerbe]
 associatedFilesPath: schloss
 date: 2006-01-01
 ---
-# Das Schloss
-
-<t>images</t>
-
 2000 – 2006<br/>
 Schlossstr. 34-37/Grunewaldstr. 1-3<br/>
 Berlin-Steglitz
