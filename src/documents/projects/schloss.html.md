@@ -2,6 +2,7 @@
 title: Schloss-Galerie Berlin-Steglitz (Das Schloss)
 tags: [Industrie und Gewerbe]
 associatedFilesPath: schloss
+date: 2006-01-01
 ---
 # Das Schloss
 
