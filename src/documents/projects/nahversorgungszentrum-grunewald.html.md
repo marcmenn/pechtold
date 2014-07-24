@@ -2,7 +2,7 @@
 title: Nahversorgungszentrum Grunewald
 tags: [Handel und Gastronomie]
 associatedFilesPath: schloss
-date: 2006-01-01
+date: 2010-01-01
 ---
 2009 – 2010<br/>
 Auerbacher Straße 10-14<br/>
