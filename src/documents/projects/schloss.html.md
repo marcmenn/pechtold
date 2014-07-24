@@ -10,10 +10,10 @@ Berlin-Steglitz
 
 Einkaufszentrum (35.000 m² Verkaufsfläche, Bezirksbibliothek, Büroflächen, Tiefgarage)
 
-Projektentwicklung
+• Projektentwicklung
 
-Entwurfs-, Genehmigungs- und Ausführungsplanung
+• Entwurfs-, Genehmigungs- und Ausführungsplanung
 
-Neubau Stahlbeton
+• Neubau Stahlbeton
 
-Bauherr: H.F.S. Immobilienfonds GmbH, HYPO-Bank-Gruppe 
+• Bauherr: H.F.S. Immobilienfonds GmbH, HYPO-Bank-Gruppe
