@@ -1,5 +1,5 @@
 ---
-title: Nahversorgungszentrum Grunewald
+title: Wohn-, Büro- und Geschäftshaus Leipziger Platz 16
 tags: [Wohnungsbau]
 associatedFilesPath: leipziger-platz-16
 date: 2014-01-01
