@@ -1,6 +1,6 @@
 ---
 title: Villa am Wannsee
-tags: Häuser
+tags: Wohnungsbau
 ---
 1999-2000 Neubau
 Wohnhaus	
