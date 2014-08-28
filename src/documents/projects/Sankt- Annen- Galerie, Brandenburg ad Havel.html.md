@@ -1,7 +1,7 @@
 ---
 title: Sankt- Annen- Galerie, Brandenburg a.d. Havel
 tags: [Kategorie]
-associatedFilesPath: Sankt- Annen- Galerie, Brandenburg a.d. Havel
+associatedFilesPath: sankt-annen
 date: 2006-01-01
 ---
 2007 – 2009<br/>

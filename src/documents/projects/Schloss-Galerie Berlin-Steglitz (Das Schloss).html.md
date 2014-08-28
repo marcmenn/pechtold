@@ -1,7 +1,7 @@
 ---
 title: Schloss-Galerie Berlin-Steglitz ("Das Schloss")
 tags: [Einkaufs- und Nahversorgungszentren]
-associatedFilesPath: Schloss-Galerie Berlin-Steglitz ("Das Schloss")
+associatedFilesPath: schloss
 date: 2006-01-01
 ---
 2000 – 2006<br/>
