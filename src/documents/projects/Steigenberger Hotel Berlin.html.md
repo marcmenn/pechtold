@@ -1,7 +1,6 @@
 ---
 title: Steigenberger Hotel Berlin
 tags: [Hotels]
-associatedFilesPath: Steigenberger Hotel Berlin
 date: 1983-01-01
 ---
 1981 - 1983<br/>

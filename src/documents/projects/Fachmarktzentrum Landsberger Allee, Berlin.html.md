@@ -1,7 +1,6 @@
 ---
 title: Fachmarktzentrum Landsberger Allee, Berlin
 tags: [Einkaufs- und Nahversorgungszentren]
-associatedFilesPath: Fachmarktzentrum Landsberger Allee, Berlin
 date: 2006
 ---
 2002 – 2006<br/>

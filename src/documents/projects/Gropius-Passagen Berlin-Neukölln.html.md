@@ -1,7 +1,6 @@
 ---
 title: Gropius-Passagen Berlin-Neukölln
 tags: [Einkaufs- und Nahversorgungszentren]
-associatedFilesPath: Gropius-Passagen Berlin-Neukölln
 date: 2007
 ---
 1995 – 2007<br/>

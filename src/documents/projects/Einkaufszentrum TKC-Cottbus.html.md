@@ -1,7 +1,6 @@
 ---
 title: Einkaufszentrum TKC-Cottbus
 tags: [Einkaufs- und Versorgungszentren]
-associatedFilesPath: Einkaufszentrum TKC-Cottbus
 date: 2008
 ---
 2008<br/>

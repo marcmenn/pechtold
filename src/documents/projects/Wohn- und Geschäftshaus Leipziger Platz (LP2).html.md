@@ -1,7 +1,6 @@
 ---
 title: Wohn- und Geschäftshaus Leipziger Platz (LP2)
 tags: [Einkaufs- und Nahversorgungszentren, Wohngebäude]
-associatedFilesPath: Wohn- und Geschäftshaus Leipziger Platz (LP2)
 date: 20014-09-01
 ---
 2012 – 2014<br/>

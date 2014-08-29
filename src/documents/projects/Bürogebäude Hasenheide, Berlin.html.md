@@ -1,7 +1,6 @@
 ---
 title: Bürogebäude Hasenheide, Berlin
 tags: [Bürogebäude]
-associatedFilesPath: Bürogebäude Hasenheide, Berlin
 date: 1995
 ---
 1994 - 1995<br/>

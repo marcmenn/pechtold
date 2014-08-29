@@ -1,7 +1,6 @@
 ---
 title: Wohnhaus Lietzenburger Straße, Berlin
 tags: [Wohngebäude]
-associatedFilesPath: Wohnhaus Lietzenburger Straße, Berlin
 date: 2012-01-01
 ---
 2010 – 2012<br/>

@@ -1,7 +1,6 @@
 ---
 title: Fachmarktcenter Neuköllner Tor, Berlin-Neukölln
 tags: [Einkaufs- und Nahversorgungszentren]
-associatedFilesPath: Fachmarktcenter Neuköllner Tor, Berlin-Neukölln
 date: 2010-01-01
 ---
 2009 – 2010<br/>

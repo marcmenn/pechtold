@@ -1,7 +1,6 @@
 ---
 title: Wohngebäude Antonienstraße, Berlin-Reinickendorf
 tags: [Wohngebäude]
-associatedFilesPath: Wohngebäude Antonienstraße, Berlin-Reinickendorf
 date: 1993-01-01
 ---
 1993<br/>

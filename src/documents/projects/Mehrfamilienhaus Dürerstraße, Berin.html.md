@@ -1,7 +1,6 @@
 ---
 title: Mehrfamilienhaus Dürerstraße, Berin
 tags: [Wohngebäude]
-associatedFilesPath: Mehrfamilienhaus Dürerstraße, Berin
 date: 2011
 ---
 2009 – 2011<br/>

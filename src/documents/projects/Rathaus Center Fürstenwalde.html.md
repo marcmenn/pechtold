@@ -1,7 +1,6 @@
 ---
 title: Rathaus Center Fürstenwalde
 tags: [Wohngebäude, Bürogebäude, Einkaufs- und Nahversorgungszentren]
-associatedFilesPath: Rathaus Center Fürstenwalde
 date: 1996-01-01
 ---
 1995 - 1996<br/>

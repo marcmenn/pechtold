@@ -1,7 +1,6 @@
 ---
 title: Hotel Residenz, Berlin
 tags: [Hotels]
-associatedFilesPath: Hotel Residenz, Berlin
 date: 1990
 ---
 1990<br/>

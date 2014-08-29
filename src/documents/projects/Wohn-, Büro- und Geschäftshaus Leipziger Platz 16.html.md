@@ -1,7 +1,6 @@
 ---
 title: Wohn-, Büro- und Geschäftshaus Leipziger Platz 16
 tags: [Wohngebäude, Bürogebäude]
-associatedFilesPath: leipziger-platz-16
 date: 2014-01-01
 ---
 2012 – 2014<br/>

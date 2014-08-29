@@ -1,7 +1,6 @@
 ---
 title: Verwaltungs- und Bürogebäude Culemeyerstraße, Berlin
 tags: [Bürogebäude]
-associatedFilesPath: Verwaltungs- und Bürogebäude Culemeyerstraße, Berlin
 date: 1993-01-01
 ---
 1993<br/>

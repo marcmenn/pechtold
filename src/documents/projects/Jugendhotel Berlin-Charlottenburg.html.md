@@ -1,7 +1,6 @@
 ---
 title: Jugendhotel Berlin-Charlottenburg
 tags: [Hotels]
-associatedFilesPath: Jugendhotel Berlin-Charlottenburg
 date: 20012-01-01
 ---
 2010 – 2012<br/>

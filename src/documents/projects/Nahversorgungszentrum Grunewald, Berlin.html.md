@@ -1,7 +1,6 @@
 ---
 title: Nahversorgungszentrum Grunewald, Berlin
 tags: [Bürogebäude, Einkaufs- und Nahversorgungszentren]
-associatedFilesPath: Nahversorgungszentrum Grunewald, Berlin
 date: 2010-01-01
 ---
 2009 – 2010<br/>

@@ -1,7 +1,6 @@
 ---
 title: Wohn-, Büro- und Geschäftshaus Leipziger Platz (LP12)
 tags: [Einkaufs- und Nahversorgungszentren, Wohngebäude]
-associatedFilesPath: Wohn-, Büro- und Geschäftshaus Leipziger Platz (LP12)
 date: 2014-09-01
 ---
 2009 – 2014<br/>

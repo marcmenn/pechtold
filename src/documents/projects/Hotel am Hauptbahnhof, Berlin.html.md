@@ -1,7 +1,6 @@
 ---
 title: Hotel am Hauptbahnhof, Berlin
 tags: [Hotels]
-associatedFilesPath: hotel-hbf
 date: 2009-01-01
 ---
 2008 – 2009<br/>

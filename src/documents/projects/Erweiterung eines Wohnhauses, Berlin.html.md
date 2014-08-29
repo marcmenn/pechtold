@@ -1,7 +1,6 @@
 ---
 title: Erweiterung eines Wohnhauses, Berlin
 tags: [Wohngebäude]
-associatedFilesPath: Erweiterung eines Wohnhauses, Berlin
 date: 2012
 ---
 2011 – 2012<br/>

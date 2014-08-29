@@ -1,7 +1,6 @@
 ---
 title: Jugendhotel Berlin-Kreuzberg
 tags: [Hotels]
-associatedFilesPath: Jugendhotel Berlin-Kreuzberg
 date: 2006-01-01
 ---
 2004 – 2006<br/>

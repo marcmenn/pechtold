@@ -1,7 +1,6 @@
 ---
 title: Wohnhaus Seehofstraße, Berlin
 tags: [Wohngebäude]
-associatedFilesPath: Wohnhaus Seehofstraße, Berlin
 date: 2004-01-01
 ---
 2003 – 2004<br/>

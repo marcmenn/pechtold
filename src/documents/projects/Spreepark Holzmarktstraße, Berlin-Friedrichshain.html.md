@@ -1,7 +1,6 @@
 ---
 title: Spreepark Holzmarktstraße, Berlin-Friedrichshain
 tags: [Bürogebäude, Wohngebäude]
-associatedFilesPath: Spreepark Holzmarktstraße, Berlin-Friedrichshain
 date: 1997-01-01
 ---
 1995 – 1997<br/>

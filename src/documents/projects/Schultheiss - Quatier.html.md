@@ -1,7 +1,6 @@
 ---
 title: Schultheiss - Quatier
 tags: [Einkaufs- und Versorgungszentren]
-associatedFilesPath: Schultheiss - Quatier
 date: 2016-01-01
 ---
 2014 – 2016<br/>

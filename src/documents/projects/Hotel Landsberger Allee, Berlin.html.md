@@ -1,7 +1,6 @@
 ---
 title: Hotel Landsberger Allee, Berlin
 tags: [Hotels]
-associatedFilesPath: Hotel Landsberger Allee, Berlin
 date: 2006
 ---
 2002 – 2006<br/>
