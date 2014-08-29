@@ -1,5 +1,5 @@
 ---
-title: Schultheiss - Quatier
+title: Schultheiss - Quartier
 tags: [Einkaufs- und Versorgungszentren]
 date: 2016-01-01
 ---

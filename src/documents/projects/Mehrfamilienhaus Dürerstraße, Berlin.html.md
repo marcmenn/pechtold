@@ -1,5 +1,5 @@
 ---
-title: Mehrfamilienhaus Dürerstraße, Berin
+title: Mehrfamilienhaus Dürerstraße, Berlin
 tags: [Wohngebäude]
 date: 2011
 ---
