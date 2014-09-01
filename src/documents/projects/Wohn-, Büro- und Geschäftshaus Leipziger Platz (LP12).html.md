@@ -17,11 +17,9 @@ Federführung in der Planungsgemeinschaft mit nps tchoban voss
 Auftraggeber: HGHI Leipziger Platz GmbH
 
 
-Das Projekt umfasst neben dem Neubau großflächiger Mall- und  Einzelhandelsflächen, Wohnungen, ein Hotel und eine
-dreigeschossige Tiefgarage.
-
 Auf dem Gelände des ehemaligen Wertheim- Kaufhauses und preußischer Ministerien ist ein Einkaufszentrum mit darauf
-befindlichem Wohnviertel inklusive Grünanlagen sowie einem Hotel im Herzen Berlins entstanden. 
+befindlichem Wohnviertel inklusive Grünanlagen sowie einem Hotel im Herzen Berlins entstanden. Das Projekt umfasst neben dem Neubau großflächiger Mall- und  Einzelhandelsflächen, Wohnungen, ein Hotel und eine dreigeschossige Tiefgarage.
+
 Eine großzügige, überdachte Piazza gegenüber dem  Ehrenhof des Bundesrates schafft eine Gliederung auf dem sonst
 an der Blockbebauung orientierten Bauweise des Grundstückes. Die gewünschte Parzellenstruktur, in welche sich auch
 denkmalgeschützte Objekte einreihen, bildet sich in den Fassaden ab.
@@ -29,6 +27,6 @@ Städtebaulich entwickelt die neue Bebauung am Leipziger Platz die Verbindung de
 Flaniermeile Friedrichstraße einerseits und die Verbindung zwischen Bundesrat und Reichstag über das Stelenfeld
 und Brandenburger Tor andererseits. Der historische Stadtgrundriß des Leipziger Platzes (Oktogon) ist wieder hergestellt.
 
-Die Hotelnutzung und ein hoher Wohnanteil zeichnen den Gebäudekomplex besonders aus und sorgen für eine Belebung der
-Funktionen untereinander. Die Fassaden, die Gestaltung der Piazza und die Darstellung der Mall nehmen historische Elemente
+Ein hoher Wohnanteil und die Hotelnutzung des Gebäudekomplexes sorgen für eine Belebung der Funktionen des Standortes untereinander.
+Die Fassaden, die Gestaltung der Piazza und die Darstellung der Mall nehmen historische Elemente
 auf und übersetzten diese in eine zeitgemäße Architektursprache. 
