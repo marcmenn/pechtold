@@ -14,7 +14,7 @@ menuOrder: 20
 <script src="http://maps.google.com/maps/api/js?sensor=false"> </script>
 <script src="/scripts/map.js"> </script>
 
-# Pressekontakt
+# Kontakt
 Pechtold Gesellschaft von Architekten mbH
 <br/>Pariser Straße 44  
 10707 Berlin  
