@@ -1,6 +1,6 @@
 ---
 title: Einkaufszentrum TKC-Cottbus
-tags: [Einkaufs- und Versorgungszentren]
+tags: [Einkaufs- und Nagversorgungszentren]
 date: 2008
 ---
 2008<br/>
