@@ -1,6 +1,6 @@
 ---
 title: Sankt- Annen- Galerie, Brandenburg a.d. Havel
-tags: [Kategorie]
+tags: [Einkaufs- und Nahversorgungszentren]
 date: 2006-01-01
 ---
 2007 – 2009<br/>
