@@ -1,6 +1,6 @@
 ---
 title: Schultheiss - Quartier
-tags: [Einkaufs- und Versorgungszentren]
+tags: [Einkaufs- und Nahversorgungszentren]
 date: 2016-01-01
 ---
 2014 – 2016<br/>
