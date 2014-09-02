@@ -10,6 +10,8 @@ $NAV1_CURRENT_BACKGROUND = #e8e8e8
 $NAV1_CURRENT_BORDER = #6685a3
 $TEXT_COLOR_NEGATIVE = #ffffff
 $NAV2_BACKGROUND = $NAV1_CURRENT_BACKGROUND
+$BACKGROUND = #ffffff
+$IMAGES_BACKGROUND = $NAV2_BACKGROUND
 
 debug(amount)
 
@@ -31,6 +33,7 @@ body
   display flex
   align-items stretch
   width 100%
+  background $BACKGROUND
 
 /* Navigation generell */
 nav
@@ -196,10 +199,20 @@ body.home
   overflow scroll
   overflow-y hidden
   white-space nowrap
+  background $IMAGES_BACKGROUND
 
-  img
-    vertical-align top
-    width: 100%
+  span
+    display inline-block
+    height 100%
+
+    & + span
+      padding-left 3px
+      background-color white
+
+    img
+      display block
+      margin auto
+      max-height 100%
 
 /* Content */
 

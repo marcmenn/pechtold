@@ -1,3 +1,4 @@
 div.images
   each file in getDocument().getAssociatedFiles().toJSON()
-    img(src=file.url)
+    span
+        img(src=file.url)
