@@ -5,11 +5,11 @@ menuOrder: 2
 
 # Pechtold Gesellschaft von Architekten mbH
 
-Die PECHTOLD Gesellschaft von Architekten mbH geht auf das 1975 in Berlin gegründete Architekturbüro PECHTOLD zurück. 
+Die PECHTOLD Gesellschaft von Architekten mbH geht auf das 1992 in Berlin gegründete Architekturbüro PECHTOLD zurück. 
 In Zusammenarbeit mit Immobilienfonds, Investoren, Projektentwicklern, Generalübernehmern, Stiftungen und privaten Bauherrn hat sich die PECHTOLD Gesellschaft von Architekten mbH eine breite Basis für ihre Tätigkeiten geschaffen.
 Zu den realisierten Projekten zählen Einkaufszentren, Hotels, Bürogebäude und Wohngebäude.
 
-Das Büro beschäftigt 30 Mitarbeiter und ist in den folgenden Aufgabenbereichen der HOAI-Leistungsphasen 1-9 tätig:
+Unser kompetentes, leistungsstarkes und engagiertes Team von derzeit 30 Mitarbeitern mit umfangreicher und vielfältiger Erfahrung ist in den folgenden Aufgabenbereichen der HOAI-Leistungsphasen 1-9 tätig:
 - Projektentwicklung
 - Projektsteuerung
 - Bebauungsplanung
@@ -17,15 +17,9 @@ Das Büro beschäftigt 30 Mitarbeiter und ist in den folgenden Aufgabenbereichen
 - Denkmalpflege
 - Bestandsaufnahme 
 
-Das Know-how wirtschaftlicher Planung mit den vielschichtigen Gestaltungen von Einkaufswelten zu verbinden, ist eine herausragende Fähigkeit der PECHTOLD Gesellschaft von Architekten mbH.
+Das Know-how wirtschaftlicher Planung mit vielschichtigen Gestaltungen zu verbinden, ist eine herausragende Fähigkeit der PECHTOLD Gesellschaft von Architekten mbH.
 Für die Erfahrung, komplexe Bauvorhaben kompetent durch die unterschiedlichen Genehmigungsinstanzen zur Realisierung zu
 führen, wird das Büro bei den Auftraggebern sehr geschätzt.
-
-Es war schon immer unser Ziel, die Qualität unserer Arbeit zu verbessern und wir setzen daher auf ein internes Qualitätsmanagment. Wir bieten eine transparente Projektstruktur für alle Beteiligten.
-
-Wir sehen unsere Tätigkeit als Architekten im Sinne eines Dienstleisters und konzentrieren uns vor allem auf die Klarheit der Aufgabenstellung und die transparente Verfolgung der einzelnen Leistungen. Durch eine Zielorientierte Arbeitsweise stellen wir den wirtschaftlichen Erfolg des Projektes sicher.
-
-Unser kompetentes, leistungsstarkes und engagiertes Team mit umfangreicher und vielfältiger Erfahrung steht für die kommenden Aufgaben bereit. Flexibilität ist eine unsere Stärken.
 
 
 # Portrait Manfred Pechtold
