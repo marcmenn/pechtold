@@ -6,4 +6,4 @@ run:
 	docpad run
 
 import_images:
-	rsync -rt $(IMG_SRC) src/files/associated-files
+	rsync --delete -rt --exclude=/index $(IMG_SRC) src/files/associated-files
