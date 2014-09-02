@@ -10,8 +10,12 @@ In Zusammenarbeit mit Immobilienfonds, Investoren, Projektentwicklern, Generalü
 Zu den realisierten Projekten zählen Einkaufszentren, Hotels, Bürogebäude und Wohngebäude.
 
 Das Büro beschäftigt 30 Mitarbeiter und ist in den folgenden Aufgabenbereichen der HOAI-Leistungsphasen 1-9 tätig:
-K Projektentwicklung K Projektsteuerung K Bebauungsplanung
-K Gebäudeplanung K Denkmalpflege K Bestandsaufnahme 
+- Projektentwicklung
+- Projektsteuerung
+- Bebauungsplanung
+- Gebäudeplanung
+- Denkmalpflege
+- Bestandsaufnahme 
 
 Das Know-how wirtschaftlicher Planung mit den vielschichtigen Gestaltungen von Einkaufswelten zu verbinden, ist eine herausragende Fähigkeit der PECHTOLD Gesellschaft von Architekten mbH.
 Für die Erfahrung, komplexe Bauvorhaben kompetent durch die unterschiedlichen Genehmigungsinstanzen zur Realisierung zu
