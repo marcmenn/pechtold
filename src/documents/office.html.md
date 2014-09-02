@@ -3,7 +3,7 @@ menuTitle: Büro
 menuOrder: 2
 ---
 
-# Pechtold Gesellschaft von Architekten mbH
+# Profil
 
 Die PECHTOLD Gesellschaft von Architekten mbH geht auf das 1992 in Berlin gegründete Architekturbüro PECHTOLD zurück. 
 In Zusammenarbeit mit Immobilienfonds, Investoren, Projektentwicklern, Generalübernehmern, Stiftungen und privaten Bauherrn hat sich die PECHTOLD Gesellschaft von Architekten mbH eine breite Basis für ihre Tätigkeiten geschaffen.
