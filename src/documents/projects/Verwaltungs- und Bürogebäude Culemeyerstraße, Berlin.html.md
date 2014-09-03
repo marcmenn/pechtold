@@ -7,9 +7,8 @@ date: 1993-01-01
 Culemeyerstr. 2<br/>
 Berlin-Marienfelde 
 
-Neubau
 Verwaltungs- und Bürogebäude
-Culemeyerstr. 2, Berlin-Marienfelde
-Büro (12.000 m² Nutzfläche)
-Entwurfs-, Genehmigungs- und Ausführungsplanung
-Bauherr: Groth + Graalfs
+• Büro (12.000 m² Nutzfläche)
+• Neubau
+• Entwurfs-, Genehmigungs- und Ausführungsplanung
+• Bauherr: Groth + Graalfs
