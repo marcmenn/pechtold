@@ -7,7 +7,7 @@ date: 1983-01-01
 Los-Angeles-Platz 1<br/>
 Berlin-Wilmersdorf 
 
-Neubau
 Hotel mit 400 Betten
-Entwurfs-, Genehmigungs- und Ausführungsplanung
-Bauherr: Steigenberger Hotels
+• Neubau
+• Entwurfs-, Genehmigungs- und Ausführungsplanung
+• Bauherr: Steigenberger Hotels
