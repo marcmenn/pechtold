@@ -8,8 +8,8 @@ Gerhart-Hauptmann-Straße 15<br/>
 Cottbus 
 
 Einkaufszentrum Umbau
-13.000 m² Verkaufsfläche)
-500 Stellplätze
-Projektentwicklung
-Entwurfs-, Genehmigungs- und Ausführungsplanung
-Bauherr: Kap Hag Handelsimmobilien GmbH
+• 13.000 m² Verkaufsfläche)
+• 500 Stellplätze
+• Projektentwicklung
+• Entwurfs-, Genehmigungs- und Ausführungsplanung
+• Bauherr: Kap Hag Handelsimmobilien GmbH
