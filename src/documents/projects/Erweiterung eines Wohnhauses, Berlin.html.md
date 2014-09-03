@@ -8,5 +8,5 @@ Badenallee<br/>
 Berlin - Charlottenburg 
 
 Erweiterung eines Wohnhauses
-Entwurfs-, Genehmigungs- und Ausführungsplanung
-Bauherrin: privat
+• Entwurfs-, Genehmigungs- und Ausführungsplanung
+• Bauherrin: privat
