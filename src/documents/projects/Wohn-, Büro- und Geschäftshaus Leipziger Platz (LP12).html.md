@@ -11,6 +11,7 @@ Einzelhandel (36.000 m² Verkaufsfläche)
 • Hotel (239 Zimmer)
 • 173 Wohnungen
 • Tiefgarage (763 Stellplätze)
+• Neubau
 • Projektentwicklung
 • Entwurfs-, Genehmigungs- und Ausführungsplanung,
 • Federführung in der Planungsgemeinschaft mit nps tchoban voss
