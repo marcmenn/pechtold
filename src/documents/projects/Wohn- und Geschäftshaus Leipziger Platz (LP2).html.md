@@ -7,14 +7,14 @@ date: 20014-09-01
 Voßstr. 34,35, Wilhelmstr. 95,96, Leipziger Str. 125<br/>
 Berlin-Mitte 
 
-1. Erweiterung des Wohn- und Geschäftshauses am Leipziger Platz (LP12)
-Einzelhandel (15.700 m² Verkaufsfläche)
-90 Wohnungen
-Tiefgarage (190 Stellplätze)
-Projektentwicklung
-Entwurfs-, Genehmigungs- und Ausführungsplanung,
-Federführung in der Planungsgemeinschaft mit nps tchoban voss
-Auftraggeber: HGHI Leipziger Platz 125 GmbH
+Erste Erweiterung des Wohn- und Geschäftshauses am Leipziger Platz (LP12)
+• Einzelhandel (15.700 m² Verkaufsfläche)
+• 90 Wohnungen
+• Tiefgarage (190 Stellplätze)
+• Projektentwicklung
+• Entwurfs-, Genehmigungs- und Ausführungsplanung,
+• Federführung in der Planungsgemeinschaft mit nps tchoban voss
+• Auftraggeber: HGHI Leipziger Platz 125 GmbH
 
 Das Projekt setzt sich zusammen aus dem Neubau großflächiger Mall-, Event- und  Einzelhandelsflächen als Ergänzung des am
 Leipziger Platz liegenden LP12 Shoppingcenters einerseits sowie Wohnungen und Tiefgarage andererseits.
