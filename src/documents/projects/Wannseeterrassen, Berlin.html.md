@@ -16,4 +16,4 @@ Die ursprünglichen Wannseeterrassen wurden 1937 als Ausflugslokal errichtet. Es
 
 Bis ins Jahr 2001 stand das Gebäude im wesentlichen unverändert. Nachdem dann das Gebäude bis auf die Grundmauern niedergebrannt ist, wurde das Grundstück vollständig fachgerecht rückgebaut und beräumt.
 
-Projektbeschreibung
+Die Planung sieht in Anlehnung an das ursprüngliche Gebäude ein Haus im englischen Landhausstil mit rund 350 Plätzen im Innenbereich und 500 Plätzen auf den namensgebenden Terrassen vor.
