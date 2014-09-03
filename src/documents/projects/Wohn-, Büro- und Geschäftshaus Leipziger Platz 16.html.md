@@ -7,7 +7,7 @@ date: 2014-01-01
 Leipziger Platz 16<br/>
 Berlin-Mitte
 
-• Einzelhandel (1.200 m² Verkaufsfläche)
+Einzelhandel (1.200 m² Verkaufsfläche)
 • 3 Wohnungen
 • Tiefgarage (26 Stellplätze)
 • Projektentwicklung
