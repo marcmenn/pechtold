@@ -11,4 +11,4 @@ Einkaufszentrum (14.500 m² Verkaufsfläche, Hochgarage mit 380 Stellplätzen)
 • Fassadenwettbewerb
 • Neubau
 • Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherr: EC Fonds 5 GmbH
+• Bauherr: HGHI Fonds 5 GmbH
