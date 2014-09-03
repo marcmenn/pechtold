@@ -1,7 +1,7 @@
 ---
 title: Sankt- Annen- Galerie, Brandenburg a.d. Havel
 tags: [Einkaufs- und Nahversorgungszentren]
-date: 2006-01-01
+date: 2009-08-27
 ---
 2007 – 2009<br/>
 Sankt Annen Strasse 21-31<br/>
