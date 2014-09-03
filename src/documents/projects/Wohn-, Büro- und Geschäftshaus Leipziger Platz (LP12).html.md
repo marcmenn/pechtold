@@ -8,14 +8,13 @@ Leipziger Platz 12-13, Leipziger Str. 131 bis 137, Voßstraße 24 bis 32<br/>
 Berlin-Mitte
 
 Einzelhandel (36.000 m² Verkaufsfläche)
-Hotel (239 Zimmer)
-173 Wohnungen
-Tiefgarage (763 Stellplätze)
-Projektentwicklung
-Entwurfs-, Genehmigungs- und Ausführungsplanung,
-Federführung in der Planungsgemeinschaft mit nps tchoban voss
-Auftraggeber: HGHI Leipziger Platz GmbH
-
+• Hotel (239 Zimmer)
+• 173 Wohnungen
+• Tiefgarage (763 Stellplätze)
+• Projektentwicklung
+• Entwurfs-, Genehmigungs- und Ausführungsplanung,
+• Federführung in der Planungsgemeinschaft mit nps tchoban voss
+• Auftraggeber: HGHI Leipziger Platz GmbH
 
 Auf dem Gelände des ehemaligen Wertheim- Kaufhauses und preußischer Ministerien ist ein Einkaufszentrum mit darauf
 befindlichem Wohnviertel inklusive Grünanlagen sowie einem Hotel im Herzen Berlins entstanden. Das Projekt umfasst neben dem Neubau großflächiger Mall- und  Einzelhandelsflächen, Wohnungen, ein Hotel und eine dreigeschossige Tiefgarage.
