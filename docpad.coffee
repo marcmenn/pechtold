@@ -64,7 +64,7 @@ module.exports =
 
     templateData:
         site:
-            title: "Architekturbüro Pechtold"
+            title: "Pechtold Architekten"
         getPreparedTitle: ->
             if @document.title then "#{@document.title} | #{@site.title}" else @site.title
         menu: ->
