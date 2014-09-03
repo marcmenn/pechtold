@@ -11,6 +11,7 @@ Einzelhandel (1.200 m² Verkaufsfläche)
 • Büros
 • Wohnungen
 • Tiefgarage (26 Stellplätze)
+• Neubau
 • Projektentwicklung
 • Entwurfs-, Genehmigungs- und Ausführungsplanung
 • Auftraggeber: HGHI Leipziger Platz 16 GmbH
