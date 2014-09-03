@@ -8,15 +8,10 @@ Leipziger Platz 16<br/>
 Berlin-Mitte
 
 • Einzelhandel (1.200 m² Verkaufsfläche)
-
 • 3 Wohnungen
-
 • Tiefgarage (26 Stellplätze)
-
 • Projektentwicklung
-
 • Entwurfs-, Genehmigungs- und Ausführungsplanung
-
 • Auftraggeber: HGHI Leipziger Platz 16 GmbH
  
 Eine weitere Lücke am Oktagon Leipziger Platz zwischen Kanadischer Botschaft und Mosse- Palais ist geschlossen.
