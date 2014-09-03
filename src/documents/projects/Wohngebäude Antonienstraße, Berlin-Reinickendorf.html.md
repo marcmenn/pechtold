@@ -7,7 +7,7 @@ date: 1993-01-01
 Antonienstraße 27-37<br/>
 Berlin-Reinickendorf
 
-Neubau
 83 Wohnungen (7.900 m2)
-Entwurfs-, Genehmigungs- und Ausführungsplanung
-Bauherr: Dr. Kressner
+• Neubau
+• Entwurfs-, Genehmigungs- und Ausführungsplanung
+• Bauherr: Dr. Kressner
