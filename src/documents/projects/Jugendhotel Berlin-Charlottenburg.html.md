@@ -7,8 +7,9 @@ date: 20012-01-01
 Hardenbergstraße 21<br/>
 Berlin-Charlottenburg 
 
-Umbau / Neubau
+
 Hotel mit 830 Betten
-8.100 m² BGF
-Entwurfs-, Genehmigungs- und Ausführungsplanung
-Bauherr: Hardenberg Immobilien GmbH & CoKG 
+• Neubau, Umbau
+• 8.100 m² BGF
+• Entwurfs-, Genehmigungs- und Ausführungsplanung
+• Bauherr: Hardenberg Immobilien GmbH & CoKG 
