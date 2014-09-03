@@ -7,9 +7,9 @@ date: 2011
 Dürerstr. 5A und 6<br/>
 Berlin-Steglitz
 
-Neubau
-Mehrfamilienhaus mit Tiefgarage
-6 Wohnungen
-Tiefgarage mit 12 Stellplätzen
-Entwurfs-, Genehmigungs- und Ausführungsplanung
-Bauherrin: privat
+Mehrfamilienhaus
+• Neubau
+• 6 Wohnungen
+• Tiefgarage mit 12 Stellplätzen
+• Entwurfs-, Genehmigungs- und Ausführungsplanung
+• Bauherrin: privat
