@@ -7,8 +7,8 @@ date: 2009-01-01
 Ella-Trebe-Strasse 9<br/>
 Berlin-Mitte
 
-2-Sterne-Hotel mit 594 Betten<br/>
-• Neubau<br/>
-• 6.600 m² Nutzfläche<br/>
-• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
+2-Sterne-Hotel mit 594 Betten
+• Neubau
+• 6.600 m² Nutzfläche
+• Entwurfs-, Genehmigungs- und Ausführungsplanung
 • Bauherr: HGHI 3 Lehrter Bahnhof MK3 GmbH
