@@ -11,6 +11,7 @@ Erste Erweiterung des Wohn- und Geschäftshauses am Leipziger Platz (LP12)
 • Einzelhandel (15.700 m² Verkaufsfläche)
 • 90 Wohnungen
 • Tiefgarage (190 Stellplätze)
+• Neubau
 • Projektentwicklung
 • Entwurfs-, Genehmigungs- und Ausführungsplanung,
 • Federführung in der Planungsgemeinschaft mit nps tchoban voss
