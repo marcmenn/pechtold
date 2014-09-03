@@ -1,6 +1,6 @@
 ---
 title: Nahversorgungszentrum und Ärztehaus am Schlachtensee, Berlin
-tags: [Bürogebäude, Einkaufs- und Nahversorgungszentren]
+tags: [Weitere Projekte, Einkaufs- und Nahversorgungszentren]
 date: 2010-01-01
 ---
 2009 – 2010<br/>
