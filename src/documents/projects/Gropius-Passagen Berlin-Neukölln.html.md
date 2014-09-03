@@ -7,12 +7,13 @@ date: 2007
 Johannisthaler Chaussee 295-319<br/>
 Berlin-Neukölln
 
-Umbau und Neubau
-Bauabschnitte I - IX
-Projektentwicklung,
-Entwurfs-, Genehmigungs- und Ausführungsplanung,
-Unterstützung der Vermietungsabteilung des Bauherren
-Bauherr: H.F.S. Immobilienfonds GmbH, HYPO-Bank-Gruppe 
+Einkaufszentrum, Kino, Büros, Arztpraxen
+• Umbau und Neubau
+• Bauabschnitte I - IX
+• Projektentwicklung,
+• Entwurfs-, Genehmigungs- und Ausführungsplanung,
+• Unterstützung der Vermietungsabteilung des Bauherren
+• Bauherr: H.F.S. Immobilienfonds GmbH, HYPO-Bank-Gruppe 
 
 Die ab 1994 umgebauten Gropius Passagen im Berliner
 Ortsteil Gropiusstadt im Süden des Berliner Bezirks Neukölln
