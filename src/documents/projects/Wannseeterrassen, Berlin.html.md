@@ -1,6 +1,6 @@
 ---
 title: Wannseeterrassen, Berlin
-tags: [Sonstiges]
+tags: [Weitere Projekte]
 date: 2015-01-01
 ---
 2005 – 2015<br/>
