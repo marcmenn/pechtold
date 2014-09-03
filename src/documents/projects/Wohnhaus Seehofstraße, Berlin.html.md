@@ -7,7 +7,7 @@ date: 2004-01-01
 Seehofstraße<br/>
 Berlin-Zehlendorf 
 
-Neubau
-xx Wohungen
-Entwurfs-, Genehmigungs- und Ausführungsplanung
-Bauherr: Schenk GbR
+7 Wohungen
+• Neubau
+• Entwurfs-, Genehmigungs- und Ausführungsplanung
+• Bauherr: Schenk GbR
