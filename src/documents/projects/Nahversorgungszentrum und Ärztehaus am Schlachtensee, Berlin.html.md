@@ -1,5 +1,5 @@
 ---
-title: Nahversorgungszentrum Schlachtensee, Berlin
+title: Nahversorgungszentrum und Ärztehaus am Schlachtensee, Berlin
 tags: [Bürogebäude, Einkaufs- und Nahversorgungszentren]
 date: 2010-01-01
 ---
@@ -7,7 +7,7 @@ date: 2010-01-01
 Breisgauer Straße 1, 3<br/>
 Berlin-Zehlendorf
 
-Nahversorgungszentrum
+Nahversorgungszentrum und Ärztehaus
 • Einzelhandel (2.500 m² Verkaufsfläche)
 • Arztpraxen (1.600 m²)
 • Neubau
