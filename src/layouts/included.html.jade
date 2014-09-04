@@ -2,8 +2,8 @@ h1= document.title
 
 if getDocument().getAssociatedFiles().toJSON().length
     div.images
-      each file in getDocument().getAssociatedFiles().toJSON()
-        span
-            img(src=file.url)
+        each file in getDocument().getAssociatedFiles().findAll({extensions: {$in: ['jpg', 'JPG', 'jpeg', 'JPEG', 'png', 'PNG']}}).toJSON()
+            span
+                img(src=getThumbnail(file.url, {w: 3840, h: 960}))
 
 != content

@@ -61,6 +61,8 @@ module.exports =
             extension: '.html.jade'
             relativeDirPath: 'projects'
             injectDocumentHelper: injectTag
+        thumbnails:
+          imageMagick: true
 
     templateData:
         site:
