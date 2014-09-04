@@ -23,8 +23,8 @@ Fax: 030 8819052
 <mail@architekt.pechtold.de>
 
 Geschäftsführung: Manfred Pechtold, Holger Schwarzer
-Gesellschaftssitz: Berlin
-Amtsgericht Charlottenburg
-HR B 131947 B
-Finanzamt Berlin-Wilmersdorf
-UST-ID: DE 276224358
+<br/>Gesellschaftssitz: Berlin
+<br/>Amtsgericht Charlottenburg
+<br/>HR B 131947 B
+<br/>Finanzamt Berlin-Wilmersdorf
+<br/>UST-ID: DE 276224358
