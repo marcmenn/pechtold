@@ -1,7 +1,7 @@
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600');
+@import 'nib';
 
 @require 'normalize.inc.styl'
-@require 'polyfills.inc.styl'
 
 $TEXT_COLOR = #666666
 $TEXT_COLOR_SECUNDARY = #999999
@@ -28,13 +28,16 @@ open-sans-semibold()
 
 html
 body
-  padding: 0
-  margin: 0
-  open-sans()
+  padding 0
+  margin 0
+  width 100%
+  height 100%
+
+body
   display flex
   align-items stretch
-  width 100%
   background $BACKGROUND
+  open-sans()
 
 /* Navigation generell */
 nav
@@ -51,12 +54,13 @@ nav
 /* Linke Spalte */
 
 aside
-  debug(0)
-  display flex
   flex none
+
+  display flex
+  justify-content space-between
   flex-flow column nowrap
   align-self flex-start
-  min-height: 100%
+  height 100%
   padding-left 1.5em
   padding-right 1.5em
 
@@ -68,7 +72,6 @@ aside
     padding: 5em 0 3em 0
 
   header
-    debug(2)
     open-sans-semibold()
     margin-bottom: 1em
     text-align: center
