@@ -96,7 +96,6 @@ module.exports =
             if tag == 'index'
                 filter = menuProject: true
             projects = @getFiles(filter, [{date: -1}])
-            console.log typeof projects
             projects.toJSON()
 
 
