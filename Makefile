@@ -5,6 +5,9 @@ IMG_SRC:="$(HOME)/Dropbox/marcusmennemeier/Bilder Projekte 2014-09-01/"
 run: node_modules
 	docpad run
 
+static: clean node_modules
+	docpad generate --env static
+
 clean:
 	rm -rf out
 
@@ -18,4 +21,4 @@ node_modules/npm_install.d: package.json
 	npm install
 	touch node_modules/npm_install.d
 
-.PHONY: node_modules import_images run clean
+.PHONY: node_modules import_images run clean static
