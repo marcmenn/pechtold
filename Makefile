@@ -1,6 +1,6 @@
+SHELL:=/bin/bash
+export PATH:=$(shell npm bin):$(PATH)
 IMG_SRC:="$(HOME)/Dropbox/marcusmennemeier/Bilder Projekte 2014-09-01/"
-export PATH:="$(shell npm bin)":$(PATH)
-
 
 run: node_modules
 	docpad run
