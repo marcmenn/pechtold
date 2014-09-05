@@ -14,6 +14,7 @@ import_images:
 node_modules: node_modules/npm_install.d
 
 node_modules/npm_install.d: package.json
+	npm prune
 	npm install
 	touch node_modules/npm_install.d
 
