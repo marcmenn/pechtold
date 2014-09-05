@@ -4,6 +4,8 @@
 # Define the DocPad Configuration
 
 defaultProjectTag = "index"
+defaultProjectTitle = "Übersicht"
+projectsMenuTitle = "Projekte"
 
 partial = (file) ->
     {readFileSync} = require 'fs'
@@ -40,7 +42,7 @@ modelDefaults = (model) ->
 
 injectTag = (model) ->
     title = model.meta.get 'tag'
-    title = "Projekte" if title is defaultProjectTag
+    title = projectsMenuTitle if title is defaultProjectTag
 
     model.setMeta
         layout: 'tags'
@@ -76,7 +78,7 @@ module.exports =
                     art = ->
                     art.prototype = item
                     a = new art()
-                    a.title = "Alle"
+                    a.title = defaultProjectTitle
                     a.children = []
                     item.children.unshift a
 
