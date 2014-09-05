@@ -6,7 +6,7 @@ run: node_modules
 	docpad run
 
 import_images:
-	rsync --delete -rt --exclude=/index $(IMG_SRC) src/files/associated-files
+	rsync --delete --recursive --checksum --itemize-changes --times --exclude=/index $(IMG_SRC) src/files/associated-files
 
 node_modules: node_modules/npm_install.d
 
