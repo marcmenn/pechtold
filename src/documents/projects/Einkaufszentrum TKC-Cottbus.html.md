@@ -8,7 +8,7 @@ Gerhart-Hauptmann-Straße 15<br/>
 Cottbus 
 
 Einkaufszentrum Umbau
-• 13.000 m² Verkaufsfläche)
+• 13.000 m² Verkaufsfläche
 • 500 Stellplätze
 • Projektentwicklung
 • Entwurfs-, Genehmigungs- und Ausführungsplanung
