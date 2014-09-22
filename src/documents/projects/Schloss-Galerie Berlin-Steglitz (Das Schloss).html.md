@@ -8,7 +8,7 @@ Schlossstr. 34-37, Grunewaldstr. 1-3<br/>
 Berlin-Steglitz
 
 Einkaufszentrum 
-• 35.000 m² Verkaufsfläche, Bezirksbibliothek, Büroflächen, Tiefgarage)
+• 35.000 m² Verkaufsfläche, Bezirksbibliothek, Büroflächen, Tiefgarage
 • Neubau und Umbau des denkmalgeschutzten Rathauses
 • Projektentwicklung
 • Entwurfs-, Genehmigungs- und Ausführungsplanung
