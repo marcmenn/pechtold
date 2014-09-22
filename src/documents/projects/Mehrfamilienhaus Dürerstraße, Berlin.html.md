@@ -12,4 +12,4 @@ Mehrfamilienhaus
 • 6 Wohnungen
 • Tiefgarage mit 12 Stellplätzen
 • Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherrin: privat
+• Bauherr: privat
