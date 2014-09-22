@@ -12,4 +12,4 @@ Wohnhaus mit Tiefgarage
 • Tiefgarage (27 Stellplätze)
 • Umbau und Aufstockung
 • Ausführungsplanung
-• Bauherrin: Royalton+KoHa+Knospe Projektentwicklung GmbH & Co
+• Bauherr: Royalton+KoHa+Knospe Projektentwicklung GmbH & Co
