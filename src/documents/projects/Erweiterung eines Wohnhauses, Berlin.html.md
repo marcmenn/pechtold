@@ -9,4 +9,4 @@ Berlin - Charlottenburg
 
 Erweiterung eines Wohnhauses
 • Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherrin: privat
+• Bauherr: privat
