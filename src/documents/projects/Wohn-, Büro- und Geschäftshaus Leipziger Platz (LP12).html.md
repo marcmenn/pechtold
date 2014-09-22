@@ -29,4 +29,4 @@ und Brandenburger Tor andererseits. Der historische Stadtgrundriß des Leipziger
 
 Ein hoher Wohnanteil und die Hotelnutzung des Gebäudekomplexes sorgen für eine Belebung der Funktionen des Standortes untereinander.
 Die Fassaden, die Gestaltung der Piazza und die Darstellung der Mall nehmen historische Elemente
-auf und übersetzten diese in eine zeitgemäße Architektursprache. 
+auf und übersetzen diese in eine zeitgemäße Architektursprache. 
