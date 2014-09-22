@@ -23,9 +23,10 @@ Leipziger Platz liegenden LP12 Shoppingcenters einerseits sowie Wohnungen und Ti
 Auf dem Gelände der ehemaligen preussischen Ministerien entsteht ein hochwertiges Einkaufszentrum mit darauf befindlichem 
 Wohnviertel bestehend aus 2-geschossigen Townhouses mit Dachterrassen und Wohngebäuden inklusive Grünanlagen. Das Objekt
 ist unterkellert und bietet Stellflächen für PKW.
-Städtebaulich ergänzt der LP2 die Verbindung über das ehemaligen Wertheimareal zwischen  dem Potsdamer Platzes zur
-renommierten Flaniermeile Friedrichstraße. Die gewünschte Parzellenstruktur wird an den Fassaden aufgenommen, in welche
-sich auch das denkmalgeschützte Objekt Voßpalais, Voßstrasse 33 einreiht. Die aufwendig gestaltete Fassade findet Ihren 
-Höhepunkt in der Ecke Voßstraße- Wilhelmstraße in welchem sich auch in Richtung Friedrichstraße der nördliche Zugang zur
-Einkaufsmall befindet. Im westlichen Bereich zum Potsdamer Platz mündet das Shoppingcenter in die Piazza des am Leipziger
+
+Städtebaulich ergänzt das Bauvorhaben die Verbindung zwischen Potsdamer Platz und der renommierten Flaniermeile Friedrichstraße über das ehemalige Wertheimareal.
+
+Die gewünschte Parzellenstruktur wird in der Fassade aufgenommen, in welcher sich auch das denkmalgeschützte Objekt Voßpalais, Voßstrasse 33 einreiht. Die aufwendig gestaltete Fassade findet ihren Höhepunkt in der Ecke Voßstraße-/ Wilhelmstraße, in welchem sich auch in Richtung Friedrichstraße der nördliche Zugang zur Einkaufsmall befindet.
+
+Im westlichen Bereich zum Potsdamer Platz mündet das Shoppingcenter in die Piazza des am Leipziger
 Platz gelegenen Shoppingcenters.
