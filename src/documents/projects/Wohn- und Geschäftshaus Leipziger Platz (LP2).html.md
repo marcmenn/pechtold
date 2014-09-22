@@ -15,7 +15,7 @@ Erste Erweiterung des Wohn- und Geschäftshauses am Leipziger Platz (LP12)
 • Projektentwicklung
 • Entwurfs-, Genehmigungs- und Ausführungsplanung,
 • Federführung in der Planungsgemeinschaft mit nps tchoban voss
-• Auftraggeber: HGHI Leipziger Platz 125 GmbH
+• Bauherr: HGHI Leipziger Platz 125 GmbH
 
 Das Projekt setzt sich zusammen aus dem Neubau großflächiger Mall-, Event- und  Einzelhandelsflächen als Ergänzung des am
 Leipziger Platz liegenden LP12 Shoppingcenters einerseits sowie Wohnungen und Tiefgarage andererseits.
