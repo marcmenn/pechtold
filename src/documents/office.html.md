@@ -17,6 +17,6 @@ Unser kompetentes, leistungsstarkes und engagiertes Team von derzeit 30 Mitarbei
 - Denkmalpflege
 - Bestandsaufnahme 
 
-Das Know-how wirtschaftlicher Planung mit vielschichtigen Gestaltungen zu verbinden, ist eine herausragende Fähigkeit der PECHTOLD Gesellschaft von Architekten mbH.
+Das Know-how wirtschaftliche Planung mit vielschichtigen Gestaltungen zu verbinden, ist eine herausragende Fähigkeit der PECHTOLD Gesellschaft von Architekten mbH.
 Für die Erfahrung, komplexe Bauvorhaben kompetent durch die unterschiedlichen Genehmigungsinstanzen zur Realisierung zu
 führen, wird das Büro bei den Auftraggebern sehr geschätzt.
