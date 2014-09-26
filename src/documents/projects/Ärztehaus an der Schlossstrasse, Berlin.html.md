@@ -6,8 +6,9 @@ date: 2006-01-01
 2006<br/>
 Schlossstrasse<br/>
 Berlin-Steglitz
-Ärztehaus
-• 9 Arztparaxen und 1 Apotheke
-• Umbau
-• Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherr: HGHI GmbH
+
+Ärztehaus<br/>
+• 9 Arztparaxen und 1 Apotheke<br/>
+• Umbau<br/>
+• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
+• Bauherr: HGHI GmbH<br/>

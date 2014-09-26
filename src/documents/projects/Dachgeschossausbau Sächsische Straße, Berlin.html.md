@@ -7,6 +7,6 @@ date: 2008
 Sächsische Str. 6<br/>
 Berlin-Wilmersdorf
 
-Wohnung mit Dachterrassen
-• Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherrin: privat
+Wohnung mit Dachterrassen<br/>
+• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
+• Bauherrin: privat<br/>

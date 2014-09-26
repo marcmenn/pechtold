@@ -7,8 +7,8 @@ date: 1995
 Hasenheide 23-31<br/>
 Berlin-Kreuzberg 
 
-Bürogebäude
-• Neubau
-• 32.000 m² Nutzfläche
-• Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherr: KapHag Unternehmensgruppe
+Bürogebäude<br/>
+• Neubau<br/>
+• 32.000 m² Nutzfläche<br/>
+• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
+• Bauherr: KapHag Unternehmensgruppe<br/>

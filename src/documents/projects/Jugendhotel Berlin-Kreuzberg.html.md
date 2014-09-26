@@ -7,9 +7,9 @@ date: 2006-01-01
 Tempelhofer Ufer 8-9<br/>
 Berlin-Kreuzberg 
 
-Jugendhotel mit 380 Betten
-• Umbau
-• 4.000 m² Nutzfläche
-• Entwurfs-, Genehmigungs- und Ausführungsplanung,
-• Ausschreibung und Bauleitung
-• Bauherr: KapHag Gruppe
+Jugendhotel mit 380 Betten<br/>
+• Umbau<br/>
+• 4.000 m² Nutzfläche<br/>
+• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
+• Ausschreibung und Bauleitung<br/>
+• Bauherr: KapHag Gruppe<br/>

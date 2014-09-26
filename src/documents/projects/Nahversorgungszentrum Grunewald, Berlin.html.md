@@ -7,9 +7,9 @@ date: 2010-01-01
 Auerbachstraße 10-14<br/>
 Berlin-Grunewald
 
-Einzelhandel (1.200 m² Verkaufsfläche)
-• Büro (1.200 m²)
-• Neubau
-• Projektentwicklung
-• Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherr: Dr. H.G. Huth 
+Einzelhandel (1.200 m² Verkaufsfläche)<br/>
+• Büro (1.200 m²)<br/>
+• Neubau<br/>
+• Projektentwicklung<br/>
+• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
+• Bauherr: Dr. H.G. Huth<br/>

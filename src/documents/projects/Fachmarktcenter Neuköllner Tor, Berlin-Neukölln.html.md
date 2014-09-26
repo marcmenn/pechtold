@@ -7,9 +7,9 @@ date: 2010-01-01
 Karl-Marx-Strasse 231<br/>
 Berlin-Neukölln 
 
-Umbau und Neubau
-• Fachmarktzentrum (14.000 m² Verkaufsfläche)
-• Parkdeck (380 Stellplätze)
-• Projektentwicklung
-• Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherr: Kap Hag Handelsimmobilien GmbH
+Umbau und Neubau<br/>
+• Fachmarktzentrum (14.000 m² Verkaufsfläche)<br/>
+• Parkdeck (380 Stellplätze)<br/>
+• Projektentwicklung<br/>
+• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
+• Bauherr: Kap Hag Handelsimmobilien GmbH<br/>

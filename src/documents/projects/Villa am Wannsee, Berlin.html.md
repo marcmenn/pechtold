@@ -7,7 +7,7 @@ date: 2006-01-01
 Inselstraße<br/>
 Berlin-Zehlendorf
 
-Villa
-• Neubau
-• Entwurf-, Genehmigungs- und Ausführungsplanung
-• Bauherr: privat
+Villa<br/>
+• Neubau<br/>
+• Entwurf-, Genehmigungs- und Ausführungsplanung<br/>
+• Bauherr: privat<br/>

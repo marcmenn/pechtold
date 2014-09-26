@@ -7,7 +7,7 @@ date: 1996-01-01
 Am Markt 4-6, 7, Domstraße, Mühlenstraße<br/>
 Fürstenwalde
 
-Wohn-, Büro- und Geschäftsgebäude
-• 10.000 m² Nutzfläche
-• Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherr: KapHag Unternehmensgruppe
+Wohn-, Büro- und Geschäftsgebäude<br/>
+• 10.000 m² Nutzfläche<br/>
+• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
+• Bauherr: KapHag Unternehmensgruppe<br/>

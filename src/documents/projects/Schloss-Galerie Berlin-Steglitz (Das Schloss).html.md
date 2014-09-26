@@ -7,9 +7,9 @@ date: 2006-01-01
 Schlossstr. 34-37, Grunewaldstr. 1-3<br/>
 Berlin-Steglitz
 
-Einkaufszentrum 
-• 35.000 m² Verkaufsfläche, Bezirksbibliothek, Büroflächen, Tiefgarage
-• Neubau und Umbau des denkmalgeschutzten Rathauses
-• Projektentwicklung
-• Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherr: H.F.S. Immobilienfonds GmbH, HYPO-Bank-Gruppe
+Einkaufszentrum <br/>
+• 35.000 m² Verkaufsfläche, Bezirksbibliothek, Büroflächen, Tiefgarage<br/>
+• Neubau und Umbau des denkmalgeschutzten Rathauses<br/>
+• Projektentwicklung<br/>
+• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
+• Bauherr: H.F.S. Immobilienfonds GmbH, HYPO-Bank-Gruppe<br/>

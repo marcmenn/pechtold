@@ -7,7 +7,7 @@ date: 1990
 Meinekestraße 9<br/>
 Berlin-Charlottenburg
 
-Komfort-Hotel mit 80 Betten
-• Umbau
-• 2.500 m² Nutzfläche
-• Entwurfs-, Genehmigungs- und Ausführungsplanung
+Komfort-Hotel mit 80 Betten<br/>
+• Umbau<br/>
+• 2.500 m² Nutzfläche<br/>
+• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>

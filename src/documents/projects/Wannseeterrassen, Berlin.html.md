@@ -7,10 +7,10 @@ date: 2015-01-01
 Wannseebadweg 35<br/>
 Berlin-Zehlendorf
 
-Ausflugslokal
-• Neubau
-• Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherr: HGHI GmbH
+Ausflugslokal<br/>
+• Neubau<br/>
+• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
+• Bauherr: HGHI GmbH<br/>
 
 Die ursprünglichen Wannseeterrassen wurden 1937 als Ausflugslokal errichtet. Es wurde später durch einen Brand zerstört und etwa 1953 wieder aufgebaut. In der Folge wurde es mehrmals um- und ausgebaut.
 

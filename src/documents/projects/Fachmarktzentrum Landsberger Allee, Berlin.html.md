@@ -7,11 +7,11 @@ date: 2006
 Landsberger Allee 358 (West)<br/>
 Berlin-Lichtenberg
 
-Fachmarktzentrum, Hotel
-• 100.000 m² Nutzfläche
-• Bauleitplanung, Vorhaben- und Erschließungsplan
-• Entwurfs- und Genehmigungsplanung
-• Bauherr: Rolin Grundstücks- & Verwaltungsgesellschaft mbH, HYPO-Bank-Gruppe
+Fachmarktzentrum, Hotel<br/>
+• 100.000 m² Nutzfläche<br/>
+• Bauleitplanung, Vorhaben- und Erschließungsplan<br/>
+• Entwurfs- und Genehmigungsplanung<br/>
+• Bauherr: Rolin Grundstücks- & Verwaltungsgesellschaft mbH, HYPO-Bank-Gruppe<br/>
 
 Auf der Grundlage des Siegerentwurfs für den städtebaulichen Wettbewerb Landsberger Allee/ Rhinstraße
 von Daniel Libeskind (1998) wurde eine für ein Fachmarktzentrum äußerst expressionistische Formenvielfalt gewürfelt,

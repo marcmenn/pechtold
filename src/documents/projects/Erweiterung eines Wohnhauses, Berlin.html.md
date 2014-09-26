@@ -7,6 +7,6 @@ date: 2012
 Badenallee<br/>
 Berlin - Charlottenburg 
 
-Erweiterung eines Wohnhauses
-• Entwurfs-, Genehmigungs- und Ausführungsplanung
-• Bauherr: privat
+Erweiterung eines Wohnhauses<br/>
+• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
+• Bauherr: privat<br/>
