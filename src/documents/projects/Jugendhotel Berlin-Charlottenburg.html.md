@@ -1,7 +1,7 @@
 ---
 title: Jugendhotel Berlin-Charlottenburg
 tags: [Hotels]
-date: 20012-01-01
+date: 2012-01-01
 ---
 2010 – 2012<br/>
 Hardenbergstraße 21<br/>

@@ -1,7 +1,7 @@
 ---
 title: Schultheiss - Quartier
 tags: [Einkaufs- und Nahversorgungszentren]
-date: 2016-01-01
+date: 2014-08-02
 ---
 2014 – 2016<br/>
 Stromstr. 11-17<br/>

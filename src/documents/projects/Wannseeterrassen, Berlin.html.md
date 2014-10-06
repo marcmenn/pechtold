@@ -1,16 +1,17 @@
 ---
 title: Wannseeterrassen, Berlin
 tags: [Weitere Projekte]
-date: 2015-01-01
+date: 2014-08-01
 ---
 2005 – 2015<br/>
 Wannseebadweg 35<br/>
 Berlin-Zehlendorf
 
-Ausflugslokal<br/>
-• Neubau<br/>
-• Entwurfs-, Genehmigungs- und Ausführungsplanung<br/>
-• Bauherr: HGHI GmbH<br/>
+Ausflugslokal
+
+* Neubau
+* Entwurfs-, Genehmigungs- und Ausführungsplanung
+* Bauherr: HGHI GmbH<br/>
 
 Die ursprünglichen Wannseeterrassen wurden 1937 als Ausflugslokal errichtet. Es wurde später durch einen Brand zerstört und etwa 1953 wieder aufgebaut. In der Folge wurde es mehrmals um- und ausgebaut.
 
