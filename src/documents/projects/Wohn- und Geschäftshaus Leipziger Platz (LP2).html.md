@@ -1,7 +1,7 @@
 ---
 title: Wohn- und Geschäftshaus Leipziger Platz (LP2)
 tags: [Einkaufs- und Nahversorgungszentren, Wohngebäude]
-date: 20014-09-01
+date: 2014-09-01
 ---
 2012 – 2014<br/>
 Voßstr. 34,35, Wilhelmstr. 95,96, Leipziger Str. 125<br/>
