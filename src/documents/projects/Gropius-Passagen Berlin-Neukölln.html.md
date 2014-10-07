@@ -1,7 +1,7 @@
 ---
 title: Gropius-Passagen Berlin-Neukölln
 tags: [Einkaufs- und Nahversorgungszentren]
-date: 2007
+date: 2006-01-01
 ---
 1995 – 2007<br/>
 Johannisthaler Chaussee 295-319<br/>
