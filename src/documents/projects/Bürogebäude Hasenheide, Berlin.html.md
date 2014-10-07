@@ -1,7 +1,7 @@
 ---
 title: Bürogebäude Hasenheide, Berlin
 tags: [Bürogebäude]
-date: 1995
+date: 1995-01-01
 ---
 1994 - 1995<br/>
 Hasenheide 23-31<br/>
