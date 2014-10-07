@@ -1,7 +1,7 @@
 ---
 title: Hotel Residenz, Berlin
 tags: [Hotels]
-date: 1990
+date: 1990-01-01
 ---
 1990<br/>
 Meinekestraße 9<br/>
