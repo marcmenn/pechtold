@@ -1,7 +1,7 @@
 ---
 title: Schloss-Galerie Berlin-Steglitz ("Das Schloss")
 tags: [Einkaufs- und Nahversorgungszentren, Bürogebäude]
-date: 2006-01-01
+date: 2006-01-02
 ---
 2000 – 2006<br/>
 Schlossstr. 34-37, Grunewaldstr. 1-3<br/>
