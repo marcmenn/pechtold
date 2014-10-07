@@ -1,6 +1,6 @@
 ---
 title: Bürogebäude Tempelhofer Ufer, Neubau und Altbausanierung, Berlin
-tags: [Bürogebäude, Hotels]
+tags: [Bürogebäude]
 date: 2006-01-01
 ---
 1994-1996<br/>
