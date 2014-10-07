@@ -1,7 +1,7 @@
 ---
 title: Wohn-, Büro- und Geschäftshaus Leipziger Platz (LP12)
 tags: [Einkaufs- und Nahversorgungszentren, Wohngebäude, Hotels]
-date: 2014-09-01
+date: 2014-09-02
 ---
 2009 – 2014<br/>
 Leipziger Platz 12-13, Leipziger Str. 131 bis 137, Voßstraße 24 bis 32<br/>
