@@ -1,7 +1,7 @@
 ---
 title: Mehrfamilienhaus Dürerstraße, Berlin
 tags: [Wohngebäude]
-date: 2011
+date: 2011-01-01
 ---
 2009 – 2011<br/>
 Dürerstr. 5A und 6<br/>
