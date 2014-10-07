@@ -1,7 +1,7 @@
 ---
 title: Einkaufszentrum TKC-Cottbus
 tags: [Einkaufs- und Nahversorgungszentren]
-date: 2008
+date: 2008-01-01
 ---
 2008<br/>
 Gerhart-Hauptmann-Straße 15<br/>
