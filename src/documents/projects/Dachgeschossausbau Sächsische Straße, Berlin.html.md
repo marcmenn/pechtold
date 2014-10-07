@@ -1,7 +1,7 @@
 ---
 title: Dachgeschossausbau Sächsische Straße, Berlin
 tags: [Wohngebäude]
-date: 2008
+date: 2008-01-01
 ---
 2007-2008<br/>
 Sächsische Str. 6<br/>
