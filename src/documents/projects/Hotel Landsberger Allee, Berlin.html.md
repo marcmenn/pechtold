@@ -1,7 +1,7 @@
 ---
 title: Hotel Landsberger Allee, Berlin
 tags: [Hotels]
-date: 2006-01-01
+date: 2006-01-02
 ---
 2002 – 2006<br/>
 Landsberger Allee 358 (West)<br/>

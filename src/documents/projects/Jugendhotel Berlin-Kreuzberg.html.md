@@ -1,7 +1,7 @@
 ---
 title: Jugendhotel Berlin-Kreuzberg
 tags: [Hotels]
-date: 2006-01-01
+date: 2006-01-04
 ---
 2004 – 2006<br/>
 Tempelhofer Ufer 8-9<br/>

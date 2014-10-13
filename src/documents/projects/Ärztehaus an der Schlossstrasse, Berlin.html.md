@@ -1,7 +1,7 @@
 ---
 title: Ärztehaus an der Schlossstrasse, Berlin
 tags: [Weitere Projekte]
-date: 2006-01-01
+date: 2006-01-03
 ---
 2006<br/>
 Schlossstrasse<br/>

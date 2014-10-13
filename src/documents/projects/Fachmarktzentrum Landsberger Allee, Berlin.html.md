@@ -1,7 +1,7 @@
 ---
 title: Fachmarktzentrum Landsberger Allee, Berlin
 tags: [Einkaufs- und Nahversorgungszentren]
-date: 2006-01-01
+date: 2006-01-05
 ---
 2002 – 2006<br/>
 Landsberger Allee 358 (West)<br/>
