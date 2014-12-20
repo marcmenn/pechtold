@@ -108,10 +108,9 @@ aside
           color: $TEXT_COLOR
           z-index: 1
         
-          /*&.hasChildren > div a:after */
-          /*content: ' ›' */
+        &.hasChildren > div a:after
+          content: ' ›'
 
-        &.parent > div
         &.current > div
           color: $NAV1_CURRENT_COLOR
           background-color: $NAV1_CURRENT_BACKGROUND
@@ -119,9 +118,17 @@ aside
           margin-left: -1.5em
           margin-right: -1.5em
           padding-left: 1em
+          padding-right: 1.5em
 
           a
             color: $NAV1_CURRENT_COLOR
+
+        ul
+          padding-left 0.5em
+
+        li.current > div
+          padding-left: 1.5em
+          margin-left: -2em
 
   /* Footer */
   
