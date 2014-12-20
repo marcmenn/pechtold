@@ -80,6 +80,9 @@ module.exports =
                     a = new art()
                     a.title = defaultProjectTitle
                     a.children = []
+                    if item.state == 'current'
+                        a.state = 'current'
+                        item.state = 'parent'
                     item.children.unshift a
 
             return result
