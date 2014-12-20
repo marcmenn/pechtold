@@ -4,7 +4,7 @@ mixin menu(menuItems, maxLevel)
     if menuItems.length
         ul.nav
             each item in menuItems
-                li(class=[item.state, item.children ? 'hasChildren' : null])
+                li(class=[item.state, item.children && item.children.length ? 'hasChildren' : null])
                     div
                         a(href=item.url)= item.title
                     unless maxLevel == 1
