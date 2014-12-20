@@ -2,10 +2,10 @@ SHELL:=/bin/bash
 export PATH:=$(shell npm bin):$(PATH)
 
 run: node_modules
-	docpad run
+	docpad run --silent
 
 static: clean node_modules
-	docpad generate --env static
+	docpad generate --env static --silent
 
 clean:
 	rm -rf out
