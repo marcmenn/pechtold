@@ -7,9 +7,9 @@ mixin menu(menuItems, maxLevel)
                 li(class=[item.state, item.children ? 'hasChildren' : null])
                     div
                         a(href=item.url)= item.title
-                        unless maxLevel == 1
-                            if item.state != false
-                                +menu(item.children, maxLevel--)
+                    unless maxLevel == 1
+                        if item.state != false
+                            +menu(item.children, maxLevel--)
 
 html
     head
@@ -26,13 +26,13 @@ html
                         div
                             | Architekten
                 nav
-                    +menu(menu(), 1)
+                    +menu(menu())
             footer
                 != partial('address')
         .border
-        if secondMenu().length
-            nav.second
-                +menu(secondMenu())
+        //if secondMenu().length
+        //    nav.second
+        //        +menu(secondMenu())
         .article
             article
                 block content
