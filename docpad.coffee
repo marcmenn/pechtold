@@ -106,5 +106,4 @@ module.exports =
             projects.toJSON()
 
 
-        images: partialText('images.jade')
         projects: partialText('projects.jade')

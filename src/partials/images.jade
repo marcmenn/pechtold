@@ -1,4 +1,0 @@
-div.images
-  each file in getDocument().getAssociatedFiles().findAll({extensions: {$in: ['jpg', 'JPG', 'jpeg', 'JPEG', 'png', 'PNG']}}).toJSON()
-    span
-        img(src=getThumbnail(file.url, {w: 3840, h: 960}))
