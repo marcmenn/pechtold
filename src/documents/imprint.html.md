@@ -5,49 +5,49 @@ menuOrder: 30
 
 # Impressum
 ## Angaben gemäß § 5 TMG:
-Pechtold Gesellschaft von Architekten mbH\
-Pariser Str. 44\
+Pechtold Gesellschaft von Architekten mbH<br/>
+Pariser Str. 44<br/>
 10707 Berlin
 ### Vertreten durch:
-Geschäftsführer: Manfred Pechtold, Dipl.-Ing. Architekt BDA\
+Geschäftsführer: Manfred Pechtold, Dipl.-Ing. Architekt BDA<br/>
 Mitgliedschaften: Architektenkammer Berlin (Berlin), Nr. 73 (Freischaffender Architekt)
 ### Kontakt:
-Telefon: +49 30 / 884 595-0\
-Telefax: +49 30/ 881 90 52\
+Telefon: +49 30 / 884 595-0<br/>
+Telefax: +49 30/ 881 90 52<br/>
 E-Mail: mail@architekt.pechtold.de
 ### Registereintrag:
-Eintragung im Handelsregister.\
-Registergericht: Amtsgericht Charlottenburg\
+Eintragung im Handelsregister.<br/>
+Registergericht: Amtsgericht Charlottenburg<br/>
 Registernummer: HRB 131947 B
 ### Umsatzsteuer:
-Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:\
+Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:<br/>
 DE276224358
 ### Aufsichtsbehörde:
-Architektenkammer Berlin KdöR\
-Alte Jakobstraße 149\
-10969 Berlin\
+Architektenkammer Berlin KdöR<br/>
+Alte Jakobstraße 149<br/>
+10969 Berlin<br/>
 https://www.ak-berlin.de
 ### Berufsbezeichnung und berufsrechtliche Regelungen
-Berufsbezeichnung: Architekten\
-Zuständige Kammer: Architektenkammer Berlin KdöR\
-Verliehen durch: Bundesrepublik Deutschland\
+Berufsbezeichnung: Architekten<br/>
+Zuständige Kammer: Architektenkammer Berlin KdöR<br/>
+Verliehen durch: Bundesrepublik Deutschland<br/>
 Es gelten folgende berufsrechtliche Regelungen: 
-Berliner Architekten- und Baukammergesetz (AKBG) vom 19. Juli 1994, GVBl. Nr. 40, 50. Jahrgang, Honorarordnung für Architekten und Ingenieure (HOAI)\
+Berliner Architekten- und Baukammergesetz (AKBG) vom 19. Juli 1994, GVBl. Nr. 40, 50. Jahrgang, Honorarordnung für Architekten und Ingenieure (HOAI)<br/>
 Regelungen einsehbar unter: https://www.ak-berlin.de
 ### Angaben zur Berufshaftpflichtversicherung
 Name und Sitz des Versicherers:
 
-VHV Allgemeine Versicherung AG\
-VHV-Platz 1\
+VHV Allgemeine Versicherung AG<br/>
+VHV-Platz 1<br/>
 30177 Hannover
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Pechtold Gesellschaft von Architekten mbH\
-Pariser Str. 44\
-10707 Berlin\
-Telefon: +49 30 / 884 595-0\
-Telefax: +49 30/ 881 90 52\
+Pechtold Gesellschaft von Architekten mbH<br/>
+Pariser Str. 44<br/>
+10707 Berlin<br/>
+Telefon: +49 30 / 884 595-0<br/>
+Telefax: +49 30/ 881 90 52<br/>
 E-Mail: mail@architekt.pechtold.de
 
 ## Haftung für Inhalte
@@ -83,11 +83,11 @@ Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erho
 ### Hinweis zur verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Pechtold Gesellschaft von Architekten mbH\
-Pariser Str. 44\
-10707 Berlin\
-Telefon: +49 30 / 884 595-0\
-Telefax: +49 30/ 881 90 52\
+Pechtold Gesellschaft von Architekten mbH<br/>
+Pariser Str. 44<br/>
+10707 Berlin<br/>
+Telefon: +49 30 / 884 595-0<br/>
+Telefax: +49 30/ 881 90 52<br/>
 E-Mail: mail@architekt.pechtold.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
