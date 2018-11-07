@@ -53,7 +53,7 @@ RUN mkdir -p /opt/pechtold
 WORKDIR /opt/pechtold
 COPY package.json yarn.lock ./
 RUN yarn --frozen-lockfile
-COPY docpad.coffee ./
+COPY docpad.js ./
 COPY plugins ./plugins
 COPY src ./src
 RUN yarn build
