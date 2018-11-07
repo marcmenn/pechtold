@@ -54,7 +54,6 @@ WORKDIR /opt/pechtold
 COPY package.json yarn.lock ./
 RUN yarn --frozen-lockfile
 COPY docpad.js ./
-COPY plugins ./plugins
 COPY src ./src
 RUN yarn build
 
