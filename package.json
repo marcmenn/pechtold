@@ -9,7 +9,7 @@
   "dependencies": {
     "coffee-script": "^1.8.0",
     "docpad": "~6.69.0",
-    "docpad-plugin-associatedfiles": "~2.2.0",
+    "docpad-plugin-associatedfiles": "~2.5.0",
     "docpad-plugin-ignoreincludes": "~2.1.0",
     "docpad-plugin-jade": "~2.7.0",
     "docpad-plugin-livereload": "~2.10.0",
