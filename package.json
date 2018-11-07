@@ -20,7 +20,7 @@
     "docpad-plugin-tags": "~2.2.0",
     "docpad-plugin-text": "~2.6.0",
     "docpad-plugin-thumbnails": "~2.1.2",
-    "duo": "0.8.2"
+    "duo": "^0.15.7"
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
