@@ -19,5 +19,5 @@
     "peerDependencies": {
         "docpad": "6"
     },
-    "main": "./duo.plugin.coffee"
+    "main": "duo.plugin.js"
 }
