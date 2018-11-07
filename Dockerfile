@@ -51,12 +51,12 @@ RUN gpg --keyserver pool.sks-keyservers.net --recv-keys 8277377A \
 
 RUN mkdir -p /opt/pechtold
 WORKDIR /opt/pechtold
-COPY package.json npm-shrinkwrap.json ./
-RUN npm install
+COPY package.json yarn.lock ./
+RUN yarn --frozen-lockfile
 COPY docpad.coffee ./
 COPY plugins ./plugins
 COPY src ./src
-RUN npm run build
+RUN yarn build
 
 FROM nginx:stable-alpine
 #COPY nginx.conf /etc/nginx/conf.d/default.conf
