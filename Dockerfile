@@ -80,7 +80,7 @@ RUN npm install
 COPY docpad.coffee ./
 COPY plugins ./plugins
 COPY src ./src
-RUN ./node_modules/.bin/docpad generate --env static --silent
+RUN npm run build
 
 FROM nginx:stable-alpine
 #COPY nginx.conf /etc/nginx/conf.d/default.conf
