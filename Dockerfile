@@ -1,7 +1,7 @@
-FROM node:6
-FROM node:6 AS build
-ENV MAGICK_URL "http://imagemagick.org/download/releases"
-ENV MAGICK_VERSION 7.0.8-14
+FROM node:8
+FROM node:8 AS build
+ARG MAGICK_URL="http://imagemagick.org/download/releases"
+ARG MAGICK_VERSION="7.0.8-14"
 
 RUN gpg --keyserver pool.sks-keyservers.net --recv-keys 8277377A \
   && apt-get update -y \
