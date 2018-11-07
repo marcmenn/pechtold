@@ -1117,13 +1117,14 @@ docpad-plugin-menu@~2.1.0:
   dependencies:
     underscore "1.3.x"
 
-docpad-plugin-partials@~2.9.1:
-  version "2.9.2"
-  resolved "https://registry.yarnpkg.com/docpad-plugin-partials/-/docpad-plugin-partials-2.9.2.tgz#c58e6289f0217c446025a2ea01a194729562d5d9"
-  integrity sha1-xY5iifAhfERgJaLqAaGUcpVi1dk=
+docpad-plugin-partials@~2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/docpad-plugin-partials/-/docpad-plugin-partials-2.13.0.tgz#35a9bfa754ca912dd4102a885310857071b85bbc"
+  integrity sha512-QLg5gOJf6ZMtjPJG/CIie/A4WoQhTRD9YFZiZDK2BGg361qFdg2vX+Sjmn2C8uSryX95v8f7FVvvQMv4ssqWhQ==
   dependencies:
-    extendr "^2.1.0"
-    taskgroup "^4.2.0"
+    editions "^1.3.4"
+    extendr "^3.2.2"
+    taskgroup "^5.0.1"
 
 docpad-plugin-stylus@~2.14.0:
   version "2.14.0"
