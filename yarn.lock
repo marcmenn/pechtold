@@ -68,7 +68,7 @@ alter@~0.2.0:
   dependencies:
     stable "~0.1.3"
 
-ambi@^2.2.0:
+ambi@^2.2.0, ambi@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/ambi/-/ambi-2.5.0.tgz#7c8e372be48891157e7cea01cb6f9143d1f74220"
   integrity sha1-fI43K+SIkRV+fOoBy2+RQ9H3QiA=
@@ -280,6 +280,22 @@ bal-util@~2.5.1:
     scandirectory "^2.5.0"
     taskgroup "^4.0.5"
     typechecker "^2.0.8"
+
+bal-util@~2.7.0:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/bal-util/-/bal-util-2.7.0.tgz#e30c85752d35a5795083a3d163b7fae7623a9a93"
+  integrity sha512-BZQ1x0B6qVwaboMURblOtKRJoZLUSWPGsYH7Ck6f6afd2QPkXRe74ztoCyfwExakF4qVCIiv1XgzlnCKGq6V5w==
+  dependencies:
+    ambi "^2.5.0"
+    eachr "^3.2.0"
+    editions "^1.3.4"
+    extendr "^3.2.2"
+    extract-opts "^3.3.1"
+    ignorefs "^1.1.1"
+    safefs "^4.1.0"
+    scandirectory "^2.5.0"
+    taskgroup "^5.0.1"
+    typechecker "^4.3.0"
 
 balanced-match@^1.0.0:
   version "1.0.0"
@@ -1143,13 +1159,14 @@ docpad-plugin-tags@~2.2.0:
   dependencies:
     editions "^1.3.4"
 
-docpad-plugin-text@~2.3.2:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/docpad-plugin-text/-/docpad-plugin-text-2.3.3.tgz#9569e56b52c75c42d4b23c9278801f005981e96e"
-  integrity sha1-lWnla1LHXELUsjySeIAfAFmB6W4=
+docpad-plugin-text@~2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/docpad-plugin-text/-/docpad-plugin-text-2.6.0.tgz#168b83b4c6dc73540c56042bd705bfd041de2014"
+  integrity sha512-jJel9fCO+V1th6fkM3bacCmolHokgA0ce4uAjev9lX0hFHuTY6a+d4hsCWCXTk0VTgRzgH62y7B25hW3h+rpEQ==
   dependencies:
-    bal-util "~2.5.1"
-    taskgroup "^4.2.0"
+    bal-util "~2.7.0"
+    editions "^1.3.4"
+    taskgroup "^5.0.1"
 
 docpad-plugin-thumbnails@~2.1.2:
   version "2.1.2"
@@ -3202,7 +3219,7 @@ tar-stream@~0.4.0, tar-stream@~0.4.1:
     readable-stream "^1.0.27-1"
     xtend "^4.0.0"
 
-taskgroup@^4.0.0, taskgroup@^4.0.5, taskgroup@^4.2.0, taskgroup@^4.2.1, taskgroup@^4.3.0:
+taskgroup@^4.0.0, taskgroup@^4.0.5, taskgroup@^4.2.1, taskgroup@^4.3.0:
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/taskgroup/-/taskgroup-4.3.1.tgz#7de193febd768273c457730497024d512c27915a"
   integrity sha1-feGT/r12gnPEV3MElwJNUSwnkVo=
